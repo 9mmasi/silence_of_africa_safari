@@ -3,11 +3,12 @@
     
 }
 .tripCard h3{
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   text-align: justify;
   margin-top: 1rem;
   white-space: nowrap;
   overflow: hidden;
+  color: black;
 }
 .tripCard p{
     text-align: justify;

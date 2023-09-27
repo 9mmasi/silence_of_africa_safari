@@ -1,8 +1,8 @@
 
 
 import './App.css'
-import Navbar from './components/Navbar'
 import About from './pages/About'
+import Terms from './pages/Terms'
 import Beach from './pages/Beach'
 import Contact from './pages/Contact'
 import Hiking from './pages/Hiking'
@@ -21,6 +21,7 @@ function App() {
       <Route path={"/beach"} element={<Beach />} />
       <Route path={"/hiking"} element={<Hiking />} />
       <Route path={"/safaris"} element={<Safaris />} />
+      <Route path={"/terms"} element={<Terms />} />
 
     </Routes>
      
