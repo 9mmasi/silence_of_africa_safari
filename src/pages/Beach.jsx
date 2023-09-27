@@ -1,6 +1,6 @@
 import React from 'react'
 import Hero from '../components/Hero'
-import bg from "../assets/zenji.jpg"
+import bg from "../assets/beachhero.jpg"
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 
