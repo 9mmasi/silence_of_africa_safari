@@ -17,7 +17,7 @@ const Beach = () => {
                 heroImg={bg}
                 title="Beach Holiday"
     />
-    <section>
+    <section className='hiking-section'>
       <div>
       <div className="hiking-head-title">
           <h1>Beach Vacation Deals</h1>

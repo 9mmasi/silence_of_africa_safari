@@ -17,7 +17,7 @@ const Safaris = () => {
                 heroImg={bg}
                 title="Wild life safari"
     />
-    <section>
+    <section className='hiking-section'>
       <div>
       <div className="hiking-head-title">
           <h1>Wildlife Safari Deals</h1>
