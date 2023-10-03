@@ -9,6 +9,7 @@ import Hiking from './pages/Hiking'
 import Home from './pages/Home'
 import { Route,Routes } from 'react-router-dom'
 import Safaris from './pages/Safaris'
+import Singlepackage from './pages/Singlepackage'
 
 function App() {
   
@@ -22,6 +23,8 @@ function App() {
       <Route path={"/hiking"} element={<Hiking />} />
       <Route path={"/safaris"} element={<Safaris />} />
       <Route path={"/terms"} element={<Terms />} />
+     
+      <Route path={`/packages/id`} element={<Singlepackage />} />
 
     </Routes>
      

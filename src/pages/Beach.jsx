@@ -4,6 +4,7 @@ import bg from "../assets/beachhero.jpg"
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import { useGlobalContext } from '../../Context'
+import { Link } from 'react-router-dom'
 
 
 const Beach = () => {
@@ -33,11 +34,11 @@ const Beach = () => {
       <h3>{item.title}</h3>
       <p>{item.text}</p>
 
-      <div className='cardTail'>
+      <Link to={`/packages/${item.id}`} className='cardTail'>
         <div><i className="fa-solid fa-money-bill"></i> ${item.price}</div>
         <div><i className="fa-regular fa-calendar-days"></i> {item.duration}</div>
         
-      </div>
+      </Link>
     </article>
             )
 

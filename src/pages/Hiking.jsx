@@ -5,6 +5,7 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import { useGlobalContext } from '../../Context'
 import "./Hiking.css"
+import { Link } from 'react-router-dom'
 
 const Hiking = () => {
   const{packages}=useGlobalContext()
@@ -34,11 +35,15 @@ const Hiking = () => {
               <h3>{item.title}</h3>
               <p>{item.text}</p>
         
-              <div className='cardTail'>
+              <Link to={`/hiking/${item.id}`} className='cardTail'>
+                
                 <div><i className="fa-solid fa-money-bill"></i> ${item.price}</div>
                 <div><i className="fa-regular fa-calendar-days"></i> {item.duration}</div>
                 
-              </div>
+                </Link>
+                
+                
+              
             </article>
           )
 
