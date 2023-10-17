@@ -24,7 +24,7 @@ function App() {
       <Route path={"/safaris"} element={<Safaris />} />
       <Route path={"/terms"} element={<Terms />} />
      
-      <Route path={`/packages/id`} element={<Singlepackage />} />
+      <Route path="/packages/:detailId" element={<Singlepackage />} />
 
     </Routes>
      

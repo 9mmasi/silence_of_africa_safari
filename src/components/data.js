@@ -56,37 +56,37 @@ export const data =[
         days:[
             {
                 title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 2: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 3: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:3,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 4: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:4,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 5: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:5,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 6: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
@@ -103,25 +103,25 @@ export const data =[
         days:[
             {
                 title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 2: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 3: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:3,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 4: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:4,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
@@ -133,7 +133,7 @@ export const data =[
             },
             {
                 title:"Day 6: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
@@ -150,37 +150,37 @@ export const data =[
         days:[
             {
                 title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 2: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 3: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:3,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 4: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:4,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 5: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:5,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 6: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
@@ -197,37 +197,37 @@ export const data =[
         days:[
             {
                 title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 2: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 3: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:3,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 4: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:4,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 5: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:5,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 6: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
@@ -245,13 +245,13 @@ export const data =[
         days:[
             {
                 title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 2: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
@@ -263,19 +263,19 @@ export const data =[
             },
             {
                 title:"Day 4: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:4,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 5: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:5,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },
             {
                 title:"Day 6: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:7,
+                distance:"7km",
                 hikingtime:"3hours",
                 desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
             },

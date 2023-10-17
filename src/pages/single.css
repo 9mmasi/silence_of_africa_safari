@@ -1,0 +1,23 @@
+.single{
+    padding: 4rem 6rem;
+}
+.singl-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.iternary{
+    flex: 0.6;
+}
+.include-exclude{
+    flex: 0.4;
+}
+.iternary-sec{
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+    text-align: justify;
+}
+.iternary-sec > p{
+    text-align: justify;
+}

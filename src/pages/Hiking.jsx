@@ -35,7 +35,7 @@ const Hiking = () => {
               <h3>{item.title}</h3>
               <p>{item.text}</p>
         
-              <Link to={`/hiking/${item.id}`} className='cardTail'>
+              <Link to={`/packages/${item.id}`} className='cardTail'>
                 
                 <div><i className="fa-solid fa-money-bill"></i> ${item.price}</div>
                 <div><i className="fa-regular fa-calendar-days"></i> {item.duration}</div>
