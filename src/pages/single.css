@@ -1,23 +1,46 @@
-.single{
-    padding: 4rem 6rem;
-}
-.singl-section{
+/* Singlepackage.css */
+/* Add your CSS for the Singlepackage component here */
+
+/* List Styles */
+.responsive-list {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.iternary{
-    flex: 0.6;
-}
-.include-exclude{
+    justify-content: center;
+  }
+  .list{
+    flex: 0.5;
+  }
+  .ex-in{
     flex: 0.4;
-}
-.iternary-sec{
-    display: flex;
-    justify-content: flex-start;
-    align-items:flex-start;
-    text-align: justify;
-}
-.iternary-sec > p{
-    text-align: justify;
-}
+  }
+  .list-style {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .list-style li {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #e1e1e1;
+    background-color:var(--primary-color);
+    text-align: start; /* Set text alignment to start (left) */
+  }
+  
+  .list-style li p {
+    font-size: 1rem;
+    text-align: start;
+    margin: 0;
+  }
+  .list-style li h3 {
+    font-size: 1.5rem;
+    text-align: start;
+    margin: 0;
+  }
+  
+  @media (max-width: 768px) {
+    .list-style li {
+      width: 95%;
+    }
+  }
+  
+  /* Add more styles as needed */
+  
