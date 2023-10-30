@@ -448,23 +448,24 @@ export const data =[
         price:2200,
         days:[
             {
-                title:"Day 1  Airport Pick up and Transfer to Hotel",
-                distance:"147km",
+                title:"DAY 1 Arrive Zanzibar airport/ harbor transfer to Stone Town Hotel for check-inn;",
+                
                 Nongameviewingtravel:"3hours",
+                desc:"At 2:30pm have the stone town tour takes around the historical culture and architectural important town of Zanzibar with a century history.Explore the profilic cultural and historical heart of Zanzibar City, on this half day walking tour. You should not miss the opportunity to get to know this UNESCO World Heritage site and its unique architecture, visit a local marketplace, check out the church and memorial at the old slave market, admire the former home of the sultan, and do some shopping.Dinner and overnight at your hotel.",
             },
             {
                 title:"Day 2  Stone Town and Countryside Tour",
-                distance:"147km",
+                desc:"enjoy full day of Safari blue in Zanzibar.This excursion includes sailing through mangroves and snorkeling in Menai Bay, which has some of the best coral reefs you can find for snorkeling. Prime activities of this tour include visit to Kwale Island, sunbathing on the sandbanks, swimming, and of course snorkeling. You’ll see abundance of colorful fish and other marine life that live amongst the coral reefs and underwater plants create this barrier reef eco-system.Dinner and overnight at your hotel.",
                 Nongameviewingtravel:"3hours",
             },
             {
                 title:"Day 3 Stay at Kendwa Beach",
-                distance:"147km",
+                desc:"Full day beach relax at the hotel, dinner and overnight.",
                 Nongameviewingtravel:"3hours",
             },
             {
                 title:"Kendwa Beach to Airport",
-                distance:"147km",
+                desc:"Morning at 8:30am trip to spiece and botanical touron this tour you will see and taste the tropical fruits, spices plantation or plots in the island. A variety of spices plants used as ornament, medicines, flowers, fruits and another interesting flora can be seen during spice tour and visit to Kidichi bath built in 1850 by the first Sultan for his wife Sheharzad, and then transfer to harbour/ airport for departure.",
                 Nongameviewingtravel:"3hours",
             }
         ],
@@ -481,23 +482,23 @@ export const data =[
         price:2200,
         days:[
             {
-                title:"Day 1  Airport Pick up and Transfer to Hotel",
-                distance:"147km",
+                title:"DAY 1 Arrive Zanzibar airport/ harbor transfer to Stone Town Hotel for check-inn;",
+                desc:"At 2:30pm have the stone town tour takes around the historical culture and architectural important town of Zanzibar with a century history. Explore the profilic cultural and historical heart of Zanzibar City, on this half day walking tour. You should not miss the opportunity to get to know this UNESCO World Heritage site and its unique architecture, visit a local marketplace, check out the church and memorial at the old slave market, admire the former home of the sultan, and do some shopping.Dinner and overnight at your hotel.",
                 Nongameviewingtravel:"3hours",
             },
             {
                 title:"Day 2  Stone Town and Countryside Tour",
-                distance:"147km",
+                desc:"Today, you will enjoy full day of Safari blue in Zanzibar. This excursion includes sailing through mangroves and snorkeling in Menai Bay, which has some of the best coral reefs you can find for snorkeling. Prime activities of this tour include visit to Kwale Island, sunbathing on the sandbanks, swimming, and of course snorkeling. You’ll see abundance of colorful fish and other marine life that live amongst the coral reefs and underwater plants create this barrier reef eco-system.Dinner and overnight at your hotel.",
                 Nongameviewingtravel:"3hours",
             },
             {
-                title:"Day 3 Stay at Kendwa Beach",
-                distance:"147km",
+                title:"Day 3 & 4 Stay at Kendwa Beach",
+                desc:"Full day beach relax at the hotel, dinner and overnight.",
                 Nongameviewingtravel:"3hours",
             },
             {
-                title:"Kendwa Beach to Airport",
-                distance:"147km",
+                title:"Day 5 Kendwa Beach to Airport",
+                desc:"Morning at 8:30am trip to spiece and botanical touron this tour you will see and taste the tropical fruits, spices plantation or plots in the island. A variety of spices plants used as ornament, medicines, flowers, fruits and another interesting flora can be seen during spice tour and visit to Kidichi bath built in 1850 by the first Sultan for his wife Sheharzad, and then transfer to harbour/ airport for departure.",
                 Nongameviewingtravel:"3hours",
             }
         ],
