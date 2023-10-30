@@ -50,7 +50,7 @@ export const data =[
     {
         id:1,
         duration:"6 days ",
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus.",
+        text:"The Marangu route, also known as the “Coca-Cola” route, is the oldest, most well established route on Kilimanjaro.This is the only route which offers sleeping huts in dormitory style accommodations in lieu of camping. There are 60 bunk beds each at Mandara and Kibo Huts, and 120 bunk beds at Horombo Hut. Guests are supplied with mattresses and pillows, but sleeping bags are still required. The huts have communal dining halls and basic washrooms, ranging from flushing toilets and running water at the lower huts to long drop toilets and buckets of water at Kibo Hut.",
         title:"6 days marangu package kilimanjaro climb",
         price:2200,
         days:[
@@ -58,37 +58,37 @@ export const data =[
                 title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
                 distance:"7km",
                 hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                desc:"You will be picked up from your hotel in the morning and driven to the Mount Kilimanjaro National Park Gate. Once signed in at the park and final preparations are complete, we start ascending on a cleared ridge trail through the rainforest. Our first night is at Mandara Hut camp set in a forest clearing. This camp consists of a group of wooden A-framed huts and flush toilets behind the main hut."
             },
             {
-                title:"Day 2: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 2: Mandara Huts to Horombo Huts",
+                distance:"12km",
+                hikingtime:"6hours",
+                desc:"In the morning we leave camp and trek through a short stretch of forest through to moorland, circumventing the base of the Maundi Crater. In the afternoon we will reach the Horombo Hut where will we stay overnight."
             },
             {
-                title:"Day 3: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 3: Acclimatization At Horombo Hut",
+                distance:"",
+                hikingtime:"",
+                desc:"A day here provides an opportunity for you to acclimatize gradually to the altitude. There are a few walks you can make in the vicinity of the hut – the most popular of which is to the base of Mawenzi Peak, the dramatic eastern summit of Kili. This walk takes four to five hours (round trip), and will get you to an altitude of 4048m before you return to the hut – this will stand you in good stead later on. Overnight stay at Horombo Hut (Breakfast, Lunch and Dinner)."
             },
             {
-                title:"Day 4: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 4: Horombo Hut To Kibo Hut",
+                distance:"10km",
+                hikingtime:"5hours",
+                desc:"Today we continue our ascent into the Alpine desert zone to Kibo Hut. This afternoon we will have an early dinner, prepare your personal gear for the summit and then get some sleep. Our summit trek starts around midnight."
             },
             {
-                title:"Day 5: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 5: Kibo Hut to Summit to Horombo Hut",
+                distance:"21km",
+                hikingtime:"6-7hours",
+                desc:"You will be woken around 23:30pm, and after a hot breakfast we will start our final summit. The first section of the trail consists of a rocky path to Hans Meyer point (5250m). The path then zigzags up to Gillman’s point (5681m) on the crater rim. This section is very steep with a lot of scree. From Gillman’s Point we could encounter snow all the way up to Uhuru peak (5895m), the highest point in Africa. After taking photos at the summit we start the 3 hours descent back to Kibo Hut. After a short rest we pack up all your personal gear and trek down to Horombo Hut (3 hours). Tonight is our last night on the mountain."
             },
             {
-                title:"Day 6: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 6: Horombo Hut to Marangu Gate",
+                distance:"18km",
+                hikingtime:"6hours",
+                desc:"This morning we make our final descent down to Marangu Gate where we started. You will be taken for lunch and here you will receive your summit certificate to commemorate your great achievement. We will then drive you back to your hotel where we will say our farewell."
             },
         ],
         category:"hiking",
@@ -97,139 +97,99 @@ export const data =[
     {
         id:2,
         duration:"6 days ",
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus.",
+        text:"The Machame route, also known as the “Whiskey” route, is the most popular route on Kilimanjaro.Machame’s draw is in its scenic beauty. However, the trail is considered difficult, steep and challenging, particularly due to its shorter itinerary. Therefore this route is better suited for more adventurous folks or those with some high altitude, hiking or backpacking experience.",
         title:"7 days machame package kilimanjaro climb",
         price:2200,
         days:[
             {
-                title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 1: Machame Gate to Machame Camp",
+                distance:"11km",
+                hikingtime:"5-7 hours",
+                desc:"You will be driven from your hotel in Arusha or Moshi to the Mount Kilimanjaro National Park Gate, passing through the village of Machame, located on the lower slopes of the mountain. As we leave park gate behind, our walk starts through the rain forest on a winding trail up the ridge. At some sections the trail can be muddy and slippery, so the gaiters and trekking poles are a good to bring.  At the end of our today’s trek lies Machame Camp, where we stay for the night."
             },
             {
-                title:"Day 2: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 2: Machame Camp to Shira Camp",
+                distance:"5km",
+                hikingtime:"4-6hours",
+                desc:"The second day continues through increasingly sparse trees and bushes into moorlands. The day finishes with Shira Camp, which is on a small plateau in the high moorlands, and features views of Kibo in the northeast and Mount Meru towards the west. White necked ravens can be seen throughout the day. There is also a set of small caves a short walk from the campsite known as the Shira Caves."
             },
             {
-                title:"Day 3: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 3: Shira Camp to Lava Tower to Barranco Camp",
+                distance:"10km",
+                hikingtime:"6-8hours",
+                desc:"Today’s route turns east into a semi desert and rocky landscape surrounding Lava Tower. Lunch will be served in a designated area before ascending the rocky path to Lava Tower. After lunch you descent again to the Barranco camping area and after reaching the high altitude of 4600m at Lava Tower, you will feel actual benefit of acclimatization. This descent to Barranco camp takes about 2 hours and offers great opportunities to take some beautiful photographs of the Western Breach and Breach Wall."
             },
             {
-                title:"Day 4: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 4: Barranco Camp to Karanga Camp",
+                distance:"5km",
+                hikingtime:"4-5hours",
+                desc:"A steep climb up the eastern wall leads us just below the Heim Glacier, where we may have some spectacular views of Kilimanjaro. We then take a steep exit up the Great Barranco Wall, which divides us from the southeastern slopes of Kibo, the trail continues down into the alpine desert of the Karanga Valley, finally we have a steep climb up to Karanga Camp."
             },
             {
-                title:"Day 5: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:5,
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 5: Karanga Camp to Barafu Camp",
+                distance:"4km",
+                hikingtime:"4-5hours",
+                desc:"After breakfast, we leave Karanga and cross the junction that connects with the Mweka Trail, used for descend from the mountain later. From here we continue up to the Barafu Camp. Here we will rest, have dinner and prepare for the summit day. From Barafu you can enjoy the view of two volcanic cones Mawenzi and Kibo peaks,  and that view is quite spectacular and you should not miss it."
             },
             {
-                title:"Day 6: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 6: Barafu Camp to Summit to Horombo Hut",
+                distance:"5 km ascent / 12 km descent",
+                hikingtime:"7-8 hours ascent / 4-6 hours descent",
+                desc:"An early start for the ascend to the rim of the Kibo Crater between the Rebmann and Ratzel Glaciers. The last section before the rim can sometimes be snow-covered and an ice-axe or ski stick is useful for balance. At the rim we will reach Stella point, from where we have further hour to Uhuru Peak.  After a short stop for taking photos we descend to the Barafu Hut for a rest and lunch before continuing on past Millenium camp down to Horombo Hut in the giant heather zone on the forest edge. Those with the strength left from  the summit may wish to descend to the Reutsh Crater and visit the ice pinnacles of the Eastern Icefields. Later in the evening, we enjoy our last dinner on the mountain and a well-earned sleep."
+            },
+            {
+                title:"Day 7: Horombo  Hut to Mweka Camp",
+                distance:"10 km",
+                hikingtime:"3-4 hours",
+                desc:"After breakfast, we continue the descent down to the Mweka Park Gate to receive your summit certificates. From the gate, you continue another hour to Mweka Village. A vehicle will meet you at village to drive you back to hotel in Moshi or Arusha."
             },
         ],
         category:"hiking",
         img:[machame1,machame2,machame3,machame4]
     },
-    {
-        id:3,
-        duration:"7 days ",
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus.",
-        title:"7 days lemosho package kilimanjaro climb",
-        price:2200,
-        days:[
-            {
-                title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
-            },
-            {
-                title:"Day 2: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
-            },
-            {
-                title:"Day 3: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
-            },
-            {
-                title:"Day 4: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
-            },
-            {
-                title:"Day 5: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
-            },
-            {
-                title:"Day 6: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
-            },
-        ],
-        category:"hiking",
-        img:[lemosho1,lemosho2,lemosho3,lemosho4]
-    },
+  
     {
         id:4,
         duration:"6 days ",
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus.",
+        text:"The Umbwe route has a well-deserved reputation of being the most challenging route on Mount Kilimanjaro. Due to the fast ascent to high altitude, this route does not provide the necessary stages for acclimatization.Although the number of people on this trail is very low, the chances of success are also low. Umbwe is considered to be very difficult, taxing route – one that should only be attempted by strong hikers who are confident in their ability to acclimatize quickly to altitude.",
         title:"6 days umbwe package kilimanjaro climb",
         price:2200,
         days:[
             {
-                title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day  1: Umbwe Gate to Umbwe Cave Camp",
+                distance:"10km",
+                hikingtime:"7hours",
+                desc:"In the morning you will leave your hotel as we drive you to Umbwe gate. After arriving, and finishing registration of your climb, the porters and guides will make final preparations. Your first day’s destination is Umbwe Cave Camp. The trail is steep and can be slippery in some places, so be very careful. Hike through the moss-covered trees of Kilimanjaro’s cloud forest. The forest will thin later in the hike and heathers, tall grasses and wildflowers will come into view."
             },
             {
-                title:"Day 2: Moshi Town to Marangu Gate to Mandara Hut",
+                title:"Day 2: Umbwe Cave Camp to Barranco Camp",
                 distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                hikingtime:"6hours",
+                desc:"After breakfast, you head out towards Barranco Camp. This day entails walking on a fairly steep area in the forest along a sharp ridge before the path flattens close to Barranco. This stretch of the climb is also fairly short with a steep incline of 1000m, so walking slowly is also very essential to avoid altitude problems. Following lunch the path gets rockier and vegetation changes as the path steadily climbs before (finally!) a short downhill to arrive at Barranco Camp."
             },
             {
-                title:"Day 3: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 3: Barranco Camp to Karanga Camp",
+                distance:"5km",
+                hikingtime:"5hours",
+                desc:"A steep climb up the eastern wall leads us just below the Heim Glacier, where we may have some spectacular views of Kilimanjaro. We then take a steep exit up the Great Barranco Wall, which divides us from the southeastern slopes of Kibo, the trail continues down into the alpine desert of the Karanga Valley, finally we have a steep climb up to Karanga Camp."
             },
             {
-                title:"Day 4: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 4: Karanga Camp to Barafu Camp",
+                distance:"4km",
+                hikingtime:"5hours",
+                desc:"After breakfast, we leave Karanga and cross the junction that connects with the Mweka Trail, used for descend from the mountain later. From here we continue up to the Barafu Camp. Here we will rest, have dinner and prepare for the summit day. From Barafu you can enjoy the view of two volcanic cones Mawenzi and Kibo peaks,  and that view is quite spectacular and you should not miss it."
             },
             {
-                title:"Day 5: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 5: Barafu camp to Uhuru Peak to Horombo Hut",
+                distance:"7-8 hours to Uhuru Peak, 6-8 hours for descend to Horombo Hut",
+                hikingtime:"35 km ascent and 11 km descent",
+                desc:"An early start for the ascent to the rim of the Kibo Crater between the Rebmann and Ratzel Glaciers. The last section before the rim can sometimes be snow-covered and an ice-axe or ski stick is useful for balance. At the rim we will reach Stella point, from where we have further hour to Uhuru Peak.  After a short stop for taking photos we descend to the Barafu Hut for a rest and lunch before continuing on past Millenium camp down to Mweka Hut in the giant heather zone on the forest edge. Those with the strength left from  the summit may wish to descend to the Reutsh Crater and visit the ice pinnacles of the Eastern Icefields. Later in the evening, we enjoy our last dinner on the mountain and a well-earned sleep."
             },
             {
-                title:"Day 6: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 6: Horombo Hut to Mweka Gate",
+                distance:"5km",
+                hikingtime:"4hours",
+                desc:"After breakfast, we continue the descent down to the Mweka Park Gate to receive your summit certificates. From the gate, you continue another hour to Mweka Village. A vehicle will meet you at village to drive you back to hotel in Moshi or Arusha."
             },
         ],
         category:"hiking",
@@ -237,47 +197,53 @@ export const data =[
     },
     {
         id:5,
-        duration:"6 days ",
+        duration:"7 days ",
 
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus.",
-        title:"6 days rongai package kilimanjaro climb",
+        text:"The Rongai route is the only route that approaches Kilimanjaro from the north, close to the Kenyan border. Though gaining popularity amongst climbers, this route still experiences low crowds.Rongai has a more gradual slope than the mountain’s other routes. It is the preferred route for those looking for an alternative to the popular Marangu route, for those who would like a more remote hike, and for those who are climbing during the rainy season",
+        title:"7 days rongai package kilimanjaro climb",
         price:2200,
         days:[
             {
-                title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 1: Rongai Gate to Simba Camp",
+                distance:"6km",
+                hikingtime:"4hours",
+                desc:"You will be driven from your hotel in Arusha or Moshi for about 5 hours to the Rongai Gate near the Kenya border. After registering at the gate, we take the first hike through forests where you may see and hear wildlife. Eat lunch on the trail before continuing to the first campsite. Rongai ascends via the less forested northern side of the mountain.The Rongai Route is one of the least crowded routes on Kilimanjaro because of the long drive to the gate. The Rongai trail is thought to have the best chance of viewing wildlife."
             },
             {
-                title:"Day 2: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 2: Simba Camp to Kikelewa Camp",
+                distance:"9km",
+                hikingtime:"7hours",
+                desc:"Hike through Kilimanjaro’s moorland. The Rongai route is relatively short and steep, making for shorter hiking times. During the hike, view Mawenzi Peak ahead."
             },
             {
-                title:"Day 3: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:3,
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 3: Kikelewa Camp to Mawenzi Tarn Camp",
+                distance:"6km",
+                hikingtime:"4hours",
+                desc:"This more leisurely acclimatization day starts with a morning hike followed by a rest in the afternoon and evening. The hike is relatively short but steep. The Mawenzi Tarn campsite is situated below Mawenzi Peak and offers stunning views of both Mawenzi and Kibo."
             },
             {
-                title:"Day 4: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 4: Mawenzi Tarn Campsite",
+                distance:"",
+                hikingtime:"",
+                desc:"This is an acclimatization day at Mawenzi Tarn. We advise you hiking a bit higher this day before returning to Mawenzi Tarn in the afternoon."
             },
             {
-                title:"Day 5: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
+                title:"Day 5: Mawenzi Tarn Camp to Kibo Camp",
+                distance:"4km",
                 hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                desc:"Cross the lunar landscape of the saddle on this day to arrive at the final campsite. Kibo Camp is situated directly below the Kibo cone, giving you stunning uninterrupted views of your final destination."
             },
             {
-                title:"Day 6: Moshi Town to Marangu Gate to Mandara Hut",
-                distance:"7km",
-                hikingtime:"3hours",
-                desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus."
+                title:"Day 6: Kibo Camp to Uhuru Peak to Horombo Hut",
+                distance:"6 km ascent/16km descent",
+                hikingtime:"6-8 hours",
+                desc:"Around midnight, begin the final ascent to Uhuru Peak, the highest point in Africa. Hike by the light of your flashlight for the next six hours. The ascent to the crater rim is the most challenging part of the entire trek. The trail is very steep until you reach the crater rim at Gilman’s Point.The hike from Gilman’s to Uhuru Peak is a gradual climb and, as far as hikes go, not very difficult. The altitude, however, makes the hike long and tiring. The crater rim hike takes about two hours. Upon reaching Uhuru, take photos of your guide and group at the peak before beginning the descent to Horombo Hut."
+            },
+            {
+                title:"Day 7: Horombo Hut to Marangu Gate",
+                distance:"20km",
+                hikingtime:"6-8 hours",
+                desc:"After breakfast, finish the trek with a descent to Marangu Gate. Your last hike on Kilimanjaro is a beautiful one, passing through Kilimanjaro’s cloud forest. Watch your step during the descent, as the trail can be slippery. Our vehicles will be waiting at Marangu Gate to take you back to your hotel."
             },
         ],
         category:"hiking",
