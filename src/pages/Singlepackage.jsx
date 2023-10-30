@@ -5,6 +5,11 @@ import Hero from '../components/Hero';
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 import './single.css';
+import BookingForm from '../components/Booking'
+import IncludedList from '../components/Included'
+import ExcludedList from '../components/Exclude'
+
+
 
 const Singlepackage = () => {
   const { detailId } = useParams();
@@ -28,13 +33,18 @@ const Singlepackage = () => {
               <li key={day.title}>
                 <h3>{day.title}</h3>
                 <p>{day.desc}</p>
-                <p>Distance:{day.distance}</p>
-                <p>Time:{day.hikingtime}</p>
+                <p className='distance'>Distance:{day.distance}</p>
+                <p className='time'>Time:{day.hikingtime}</p>
               </li>
             ))}
           </ul>
           </div>
           <div className="ex-in">
+            <IncludedList />
+            <ExcludedList />
+
+            
+            <BookingForm/>
             
           </div>
          
