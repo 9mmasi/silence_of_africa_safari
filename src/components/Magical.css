@@ -45,6 +45,9 @@
         max-height: 100vh;
     
     }
+   .empty{
+      display:none
+   }
     .magic-content{
         width: 100%;
         display: flex;
