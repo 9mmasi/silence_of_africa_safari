@@ -11,6 +11,7 @@
   }
   .ex-in{
     flex: 0.4;
+    margin-top: 2rem;
   }
   .list-style {
     list-style-type: none;
@@ -37,9 +38,33 @@
   }
   
   @media (max-width: 768px) {
-    .list-style li {
-      width: 95%;
+    .responsive-list{
+      display: flex;
+      flex-direction: column;
     }
+    .list-style{
+      display: flex;
+      flex-direction: column;
+      margin-top: 2rem;
+      
+
+    }
+    .list-style li {
+      width: 80%;
+      justify-content: center;
+      align-items: center;
+      margin:auto;
+    }
+    .ex-in{
+      flex: 1;
+    }
+    .list{
+      flex: 1;
+      
+    }
+  }
+  .distance, .time{
+    color: #e1e1e1;
   }
   
   /* Add more styles as needed */
