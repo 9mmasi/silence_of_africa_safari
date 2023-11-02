@@ -34,7 +34,7 @@ const Singlepackage = () => {
                 <h3>{day.title}</h3>
                 <p>{day.desc}</p>
                 <p className='distance'>Distance:{day.distance}</p>
-                <p className='time'>Time:{day.hikingtime}</p>
+                <p className='time'>Time:{day.time}</p>
               </li>
             ))}
           </ul>
