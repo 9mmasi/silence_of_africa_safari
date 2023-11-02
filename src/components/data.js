@@ -57,13 +57,13 @@ export const data =[
             {
                 title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
                 distance:"7km",
-                hikingtime:"3hours",
+                time:"3hours of hiking",
                 desc:"You will be picked up from your hotel in the morning and driven to the Mount Kilimanjaro National Park Gate. Once signed in at the park and final preparations are complete, we start ascending on a cleared ridge trail through the rainforest. Our first night is at Mandara Hut camp set in a forest clearing. This camp consists of a group of wooden A-framed huts and flush toilets behind the main hut."
             },
             {
                 title:"Day 2: Mandara Huts to Horombo Huts",
                 distance:"12km",
-                hikingtime:"6hours",
+               time:"6hours of hiking",
                 desc:"In the morning we leave camp and trek through a short stretch of forest through to moorland, circumventing the base of the Maundi Crater. In the afternoon we will reach the Horombo Hut where will we stay overnight."
             },
             {
@@ -75,19 +75,19 @@ export const data =[
             {
                 title:"Day 4: Horombo Hut To Kibo Hut",
                 distance:"10km",
-                hikingtime:"5hours",
+                time:"5hours of hiking",
                 desc:"Today we continue our ascent into the Alpine desert zone to Kibo Hut. This afternoon we will have an early dinner, prepare your personal gear for the summit and then get some sleep. Our summit trek starts around midnight."
             },
             {
                 title:"Day 5: Kibo Hut to Summit to Horombo Hut",
                 distance:"21km",
-                hikingtime:"6-7hours",
+                time:"6-7hours of hiking",
                 desc:"You will be woken around 23:30pm, and after a hot breakfast we will start our final summit. The first section of the trail consists of a rocky path to Hans Meyer point (5250m). The path then zigzags up to Gillman’s point (5681m) on the crater rim. This section is very steep with a lot of scree. From Gillman’s Point we could encounter snow all the way up to Uhuru peak (5895m), the highest point in Africa. After taking photos at the summit we start the 3 hours descent back to Kibo Hut. After a short rest we pack up all your personal gear and trek down to Horombo Hut (3 hours). Tonight is our last night on the mountain."
             },
             {
                 title:"Day 6: Horombo Hut to Marangu Gate",
                 distance:"18km",
-                hikingtime:"6hours",
+                time:"6hours of hiking",
                 desc:"This morning we make our final descent down to Marangu Gate where we started. You will be taken for lunch and here you will receive your summit certificate to commemorate your great achievement. We will then drive you back to your hotel where we will say our farewell."
             },
         ],
@@ -104,43 +104,43 @@ export const data =[
             {
                 title:"Day 1: Machame Gate to Machame Camp",
                 distance:"11km",
-                hikingtime:"5-7 hours",
+                time:"5-7 hours of hiking",
                 desc:"You will be driven from your hotel in Arusha or Moshi to the Mount Kilimanjaro National Park Gate, passing through the village of Machame, located on the lower slopes of the mountain. As we leave park gate behind, our walk starts through the rain forest on a winding trail up the ridge. At some sections the trail can be muddy and slippery, so the gaiters and trekking poles are a good to bring.  At the end of our today’s trek lies Machame Camp, where we stay for the night."
             },
             {
                 title:"Day 2: Machame Camp to Shira Camp",
                 distance:"5km",
-                hikingtime:"4-6hours",
+                time:"4-6hours of hiking",
                 desc:"The second day continues through increasingly sparse trees and bushes into moorlands. The day finishes with Shira Camp, which is on a small plateau in the high moorlands, and features views of Kibo in the northeast and Mount Meru towards the west. White necked ravens can be seen throughout the day. There is also a set of small caves a short walk from the campsite known as the Shira Caves."
             },
             {
                 title:"Day 3: Shira Camp to Lava Tower to Barranco Camp",
                 distance:"10km",
-                hikingtime:"6-8hours",
+                time:"6-8hours of hiking",
                 desc:"Today’s route turns east into a semi desert and rocky landscape surrounding Lava Tower. Lunch will be served in a designated area before ascending the rocky path to Lava Tower. After lunch you descent again to the Barranco camping area and after reaching the high altitude of 4600m at Lava Tower, you will feel actual benefit of acclimatization. This descent to Barranco camp takes about 2 hours and offers great opportunities to take some beautiful photographs of the Western Breach and Breach Wall."
             },
             {
                 title:"Day 4: Barranco Camp to Karanga Camp",
                 distance:"5km",
-                hikingtime:"4-5hours",
+                time:"4-5hours of hiking",
                 desc:"A steep climb up the eastern wall leads us just below the Heim Glacier, where we may have some spectacular views of Kilimanjaro. We then take a steep exit up the Great Barranco Wall, which divides us from the southeastern slopes of Kibo, the trail continues down into the alpine desert of the Karanga Valley, finally we have a steep climb up to Karanga Camp."
             },
             {
                 title:"Day 5: Karanga Camp to Barafu Camp",
                 distance:"4km",
-                hikingtime:"4-5hours",
+                time:"4-5hours of hiking",
                 desc:"After breakfast, we leave Karanga and cross the junction that connects with the Mweka Trail, used for descend from the mountain later. From here we continue up to the Barafu Camp. Here we will rest, have dinner and prepare for the summit day. From Barafu you can enjoy the view of two volcanic cones Mawenzi and Kibo peaks,  and that view is quite spectacular and you should not miss it."
             },
             {
                 title:"Day 6: Barafu Camp to Summit to Horombo Hut",
                 distance:"5 km ascent / 12 km descent",
-                hikingtime:"7-8 hours ascent / 4-6 hours descent",
+                time:"hiking 7-8 hours ascent / 4-6 hours descent",
                 desc:"An early start for the ascend to the rim of the Kibo Crater between the Rebmann and Ratzel Glaciers. The last section before the rim can sometimes be snow-covered and an ice-axe or ski stick is useful for balance. At the rim we will reach Stella point, from where we have further hour to Uhuru Peak.  After a short stop for taking photos we descend to the Barafu Hut for a rest and lunch before continuing on past Millenium camp down to Horombo Hut in the giant heather zone on the forest edge. Those with the strength left from  the summit may wish to descend to the Reutsh Crater and visit the ice pinnacles of the Eastern Icefields. Later in the evening, we enjoy our last dinner on the mountain and a well-earned sleep."
             },
             {
                 title:"Day 7: Horombo  Hut to Mweka Camp",
                 distance:"10 km",
-                hikingtime:"3-4 hours",
+                time:"3-4 hours of hiking",
                 desc:"After breakfast, we continue the descent down to the Mweka Park Gate to receive your summit certificates. From the gate, you continue another hour to Mweka Village. A vehicle will meet you at village to drive you back to hotel in Moshi or Arusha."
             },
         ],
@@ -158,37 +158,37 @@ export const data =[
             {
                 title:"Day  1: Umbwe Gate to Umbwe Cave Camp",
                 distance:"10km",
-                time:"7hours",
+                time:"7hours of hiking",
                 desc:"In the morning you will leave your hotel as we drive you to Umbwe gate. After arriving, and finishing registration of your climb, the porters and guides will make final preparations. Your first day’s destination is Umbwe Cave Camp. The trail is steep and can be slippery in some places, so be very careful. Hike through the moss-covered trees of Kilimanjaro’s cloud forest. The forest will thin later in the hike and heathers, tall grasses and wildflowers will come into view."
             },
             {
                 title:"Day 2: Umbwe Cave Camp to Barranco Camp",
                 distance:"7km",
-                time:"6hours",
+                time:"6hours of hiking",
                 desc:"After breakfast, you head out towards Barranco Camp. This day entails walking on a fairly steep area in the forest along a sharp ridge before the path flattens close to Barranco. This stretch of the climb is also fairly short with a steep incline of 1000m, so walking slowly is also very essential to avoid altitude problems. Following lunch the path gets rockier and vegetation changes as the path steadily climbs before (finally!) a short downhill to arrive at Barranco Camp."
             },
             {
                 title:"Day 3: Barranco Camp to Karanga Camp",
                 distance:"5km",
-                time:"5hours",
+                time:"5hours of hiking",
                 desc:"A steep climb up the eastern wall leads us just below the Heim Glacier, where we may have some spectacular views of Kilimanjaro. We then take a steep exit up the Great Barranco Wall, which divides us from the southeastern slopes of Kibo, the trail continues down into the alpine desert of the Karanga Valley, finally we have a steep climb up to Karanga Camp."
             },
             {
                 title:"Day 4: Karanga Camp to Barafu Camp",
                 distance:"4km",
-                time:"5hours",
+                time:"5hours of hiking",
                 desc:"After breakfast, we leave Karanga and cross the junction that connects with the Mweka Trail, used for descend from the mountain later. From here we continue up to the Barafu Camp. Here we will rest, have dinner and prepare for the summit day. From Barafu you can enjoy the view of two volcanic cones Mawenzi and Kibo peaks,  and that view is quite spectacular and you should not miss it."
             },
             {
                 title:"Day 5: Barafu camp to Uhuru Peak to Horombo Hut",
-                distance:"7-8 hours to Uhuru Peak, 6-8 hours for descend to Horombo Hut",
-                time:"35 km ascent and 11 km descent",
+                distance:"35 km ascent and 11 km descent",
+                time:" 7-8 hours to Uhuru Peak, 6-8 hours for descend to Horombo Hut",
                 desc:"An early start for the ascent to the rim of the Kibo Crater between the Rebmann and Ratzel Glaciers. The last section before the rim can sometimes be snow-covered and an ice-axe or ski stick is useful for balance. At the rim we will reach Stella point, from where we have further hour to Uhuru Peak.  After a short stop for taking photos we descend to the Barafu Hut for a rest and lunch before continuing on past Millenium camp down to Mweka Hut in the giant heather zone on the forest edge. Those with the strength left from  the summit may wish to descend to the Reutsh Crater and visit the ice pinnacles of the Eastern Icefields. Later in the evening, we enjoy our last dinner on the mountain and a well-earned sleep."
             },
             {
                 title:"Day 6: Horombo Hut to Mweka Gate",
                 distance:"5km",
-                time:"4hours",
+                time:"4hours of hiking",
                 desc:"After breakfast, we continue the descent down to the Mweka Park Gate to receive your summit certificates. From the gate, you continue another hour to Mweka Village. A vehicle will meet you at village to drive you back to hotel in Moshi or Arusha."
             },
         ],
@@ -206,19 +206,19 @@ export const data =[
             {
                 title:"Day 1: Rongai Gate to Simba Camp",
                 distance:"6km",
-                time:"4hours",
+                time:"4hours of hiking",
                 desc:"You will be driven from your hotel in Arusha or Moshi for about 5 hours to the Rongai Gate near the Kenya border. After registering at the gate, we take the first hike through forests where you may see and hear wildlife. Eat lunch on the trail before continuing to the first campsite. Rongai ascends via the less forested northern side of the mountain.The Rongai Route is one of the least crowded routes on Kilimanjaro because of the long drive to the gate. The Rongai trail is thought to have the best chance of viewing wildlife."
             },
             {
                 title:"Day 2: Simba Camp to Kikelewa Camp",
                 distance:"9km",
-                time:"7hours",
+                time:"7hours of hiking",
                 desc:"Hike through Kilimanjaro’s moorland. The Rongai route is relatively short and steep, making for shorter hiking times. During the hike, view Mawenzi Peak ahead."
             },
             {
                 title:"Day 3: Kikelewa Camp to Mawenzi Tarn Camp",
                 distance:"6km",
-                time:"4hours",
+                time:"4hours of hiking",
                 desc:"This more leisurely acclimatization day starts with a morning hike followed by a rest in the afternoon and evening. The hike is relatively short but steep. The Mawenzi Tarn campsite is situated below Mawenzi Peak and offers stunning views of both Mawenzi and Kibo."
             },
             {
@@ -230,19 +230,19 @@ export const data =[
             {
                 title:"Day 5: Mawenzi Tarn Camp to Kibo Camp",
                 distance:"4km",
-                time:"3hours",
+                time:"3hours of hiking",
                 desc:"Cross the lunar landscape of the saddle on this day to arrive at the final campsite. Kibo Camp is situated directly below the Kibo cone, giving you stunning uninterrupted views of your final destination."
             },
             {
                 title:"Day 6: Kibo Camp to Uhuru Peak to Horombo Hut",
                 distance:"6 km ascent/16km descent",
-                time:"6-8 hours",
+                time:"6-8 hours of hiking",
                 desc:"Around midnight, begin the final ascent to Uhuru Peak, the highest point in Africa. Hike by the light of your flashlight for the next six hours. The ascent to the crater rim is the most challenging part of the entire trek. The trail is very steep until you reach the crater rim at Gilman’s Point.The hike from Gilman’s to Uhuru Peak is a gradual climb and, as far as hikes go, not very difficult. The altitude, however, makes the hike long and tiring. The crater rim hike takes about two hours. Upon reaching Uhuru, take photos of your guide and group at the peak before beginning the descent to Horombo Hut."
             },
             {
                 title:"Day 7: Horombo Hut to Marangu Gate",
                 distance:"20km",
-                time:"6-8 hours",
+                time:"6-8 hours of hiking",
                 desc:"After breakfast, finish the trek with a descent to Marangu Gate. Your last hike on Kilimanjaro is a beautiful one, passing through Kilimanjaro’s cloud forest. Watch your step during the descent, as the trail can be slippery. Our vehicles will be waiting at Marangu Gate to take you back to your hotel."
             },
         ],
@@ -260,12 +260,12 @@ export const data =[
             {
                 title:"Day 1 – Arusha – Lake Manyara",
                 desc:"This morning, after your breakfast at your hotel by 7.30 am, and you will be met by your safari guide, for a short briefing, and later you will depart for Lake Manyara National Park. Spend the afternoon on a game drive of this park, described as one of the hidden gems of Tanzania. This park is famous for its tree-climbing lions and large herds of elephant, which are not shy to come straight up to the vehicle. There are numerous bird species, making the park one of the iconic African birding destination, famous for the flamingoes.After the game drive, you will return to the lodge for dinner and overnight.Overnight at Lake Manyara accommodation. Meal Plan: Lunch & dinner.",
-                Nongameviewingtravel:"3hours",
+                time:"3hours",
             },
             {
                 title:"Day 2 – Lake Manyara National Park – Ngorongoro Crater – Arusha",
                 desc:"On the last day of your safari, you will have an early start. Finishing up with a quick breakfast you will make an early descent at around 6:30 AM into the crater floor. The Ngorongoro Crater is the world’s largest inactive, intact and unfilled volcanic caldera. It has a massive floor of about 260 sq kms with a depth of over 2000 feet. The 5-hour game drive on the crater floor will show you a lot of animal action. Keeping the camera ready is definitely recommended. The African elephant, buffalo, Black rhino, Hippos, Hyenas, Cheetahs and Lions are found in plenty. Post the picnic lunch at the beautiful Hippo pool, you will begin a steep ascend to the top exit of the crater. This is the last leg of your safari, with a 4hr drive left to Arusha. You will be dropped off to your preferred location in Arusha by 6:00 PM in the evening. With an incredible experience and loads of memories to cherish, this is the time you bid goodbye to your team.",
-                Nongameviewingtravel:"3hours",
+                time:"3hours",
             },
         ],
         img:[manyara1,manyara2,manyara3,manyara4],
@@ -321,17 +321,17 @@ export const data =[
             {
                 title:"Day 3 – Serengeti Plains",
                 desc:"You can either have a relaxed breakfast and depart for full day game drives around 9:00 AM with packed lunch and return back to lodge late afternoon around 6:00 PM. Or you can depart at 6:00 AM on an early morning game drive. Later return to accommodation for breakfast and relax for a bit and depart on an afternoon game drive with packed lunch. You will explore the central portion of the Serengeti National Park today. The legendary Serengeti National Park is the most renowned safari destination for its incredible population of lions and leopards. The central portion of the Serengeti - known as Seronera area is one of the richest wildlife habitats in the park. It features the Seronera River, which provides a valuable water source to this area and therefore attracts wildlife well representative of most of the Serengeti’s species. During the off season of the migration, one must really look out for the many lion pride that thrive in this region. The interactions and survival of these lion pride provide an excellent game viewing experience all year round. Along with a picnic lunch during the full day game drive, the day will come to a close by around 5PM. The long day comes to an end with a heavy dinner and a good night’s rest in your accommodation.",
-                Nongameviewingtravel:"3hours",
+                time:"3hours",
             },
             {
                 title:"Day 4 – Serengeti Plains – Ngorongoro crater",
                 desc:"After breakfast, you will have a morning game drive in Serengeti National Park. Later depart for Ngorongoro Conservation Area with picnic lunch. Ngorongoro Crater is the largest collapsed volcanic crater in the world and fourteen kilometers of isolated natural beauty. Ngorongoro Crater is surrounded by a ring of extinct volcanoes and the floor, dotted with watering holes, shelters some 30,000 animals. The eventful day comes to an end with a heavy dinner and a good night’s rest in your accommodation.",
-                Nongameviewingtravel:"3hours",
+                time:"3hours",
             },
             {
                 title:"Day 5 – Ngorongoro crater – Arusha",
                 desc:"On the last day of your safari, you will have an early start. Finishing up with a quick breakfast you will make an early descent at around 6:30 AM into the crater floor. The Ngorongoro Crater is the world’s largest inactive, intact and unfilled volcanic caldera. It has a massive floor of about 260 sq kms with a depth of over 2000 feet. The 5-hour game drive on the crater floor will show you a lot of animal action. Keeping the camera ready is definitely recommended. The African elephant, buffalo, Black rhino, Hippos, Hyenas, Cheetahs and Lions are found in plenty. Post the picnic lunch at the beautiful Hippo pool, you will begin a steep ascend to the top exit of the crater. This is the last leg of your safari, with a 4hr drive left to Arusha. You will be dropped off to your preferred location in Arusha by 6:00 PM in the evening. With an incredible experience and loads of memories to cherish, this is the time you bid goodbye to your team.",
-                Nongameviewingtravel:"3hours",
+                time:"3hours",
             },
         ],
         img:[ngorongoro1,ngorongoro2,ngorongoro3,ngorongoro4],
