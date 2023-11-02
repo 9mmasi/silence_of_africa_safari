@@ -18,20 +18,20 @@ const Destinations = () => {
         <DestinationData 
         cname="destination"
         title="Lake Manyara National Park" 
-        text="Lorem adipisicing elit. Quam ex nulla explicabo sunt at ratione ab alias fugiat, voluptas earum.ab alias fugiat, voluptas earum.dolor sit amet consectetur adipisicing elit. Quam ex nulla explicabo sunt at ratione ab alias fugiat, voluptas earumipsum dolor sit amet consectetur adipisicing elit. Quam ex nulla explicabo sunt at ratione ab alias fugiat, voluptas earum."
+        text="Lake Manyara National Park well known for the tree climbing lions, the soda ash lake that attracts thousands and pink flamingos, one of Tanzania’s biggest elephant population and breathtaking scenery."
         bg={bg}
         bg2={bg2}
         />
         <DestinationData 
         cname="destination-reverse"
         title="Serengeti National Park" 
-        text="Lorem ipsum Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam ex nulla explicabo sunt at ratione Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam ex nulla explicabo sunt at ratione ab alias fugiat, voluptas earum.ab alias fugiat, voluptas earum.dolor sit amet consectetur adipisicing elit. Quam ex nulla explicabo sunt at ratione ab alias fugiat, voluptas earum."
+        text="Tanzania’s oldest and most popular national park, also a world heritage site and recently proclaimed a 7th world wide wonder, the Serengeti is famed for its annual migration, when some six million hooves pound the open plains, as more than 200,000 zebra and 300,000 Thomson’s gazelle join the wildebeest’s trek for fresh grazing. Yet even when the migration is quiet, the Serengeti offers arguably the most scintillating game-viewing in Africa: great herds of buffalo, smaller groups of elephant and giraffe, and thousands upon thousands of eland, topi, kongoni, impala and Grant’s gazelle."
         bg={bg3}
         bg2={bg4}/>
         <DestinationData 
         cname="destination"
         title="Beach Holiday at Zanzibar" 
-        text="Lorem adipisicing elit. Quam ex nulla explicabo sunt at ratione ab alias fugiat, voluptas earum.ab alias fugiat, voluptas earum.dolor sit amet consectetur adipisicing elit. Quam ex nulla explicabo sunt at ratione ab alias fugiat, voluptas earum ipsum dolor sit amet consectetur adipisicing elit. Quam ex nulla explicabo sunt at ratione ab alias fugiat, voluptas earum."
+        text="Zanzibar is a Tanzanian archipelago off the coast of East Africa. On its main island, Unguja, familiarly called Zanzibar, is Stone Town, a historic trade center with Swahili and Islamic influences. Its winding lanes present minarets, carved doorways and 19th-century landmarks such as the House of Wonders, a former sultan’s palace. The northern villages Nungwi and Kendwa have wide beaches lined with hotels."
         bg={bg5}
         bg2={bg6}/>
 
