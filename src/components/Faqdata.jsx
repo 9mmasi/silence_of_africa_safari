@@ -16,7 +16,7 @@ export const data =[
         answer:"Tanzania is a diverse and culturally rich country with a variety of ethnic groups and religions. It's important to be respectful of local customs and traditions. For instance, when visiting local villages, it's polite to ask for permission before taking photographs and to dress modestly. Also, it's customary to remove your shoes before entering someone's home."
     },
      {
-        question:"5.Additionally, if you plan to go on a safari in Tanzania's renowned national parks, consider these extra tips:  ",
+        question:"5.if you plan to go on a safari in Tanzania's  consider these extra tips:  ",
         answer:"Pack appropriate clothing and gear for safari activities, including neutral-colored clothing and comfortable footwear.Plan your safari during the dry season (June to October) for the best wildlife viewing opportunities.Choose a reputable tour operator for your safari to ensure a safe and memorable experience.Remember to research your specific destination within Tanzania for any region-specific advice and stay updated on travel advisories from your government. By following these tips and being well-prepared, you can make the most of your journey to Tanzania.."
     },
 ]
