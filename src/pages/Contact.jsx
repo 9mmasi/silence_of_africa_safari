@@ -6,6 +6,7 @@ import Hero from '../components/Hero'
 import bg from "../assets/contacthero.jpg"
 import Footer from "../components/Footer"
 import ContactForm from '../components/ContactForm'
+import { WhatsAppIcon } from '../components/WhatsAppIcon'
 
 
 const Contact = () => {
@@ -18,6 +19,7 @@ const Contact = () => {
         title="Contact"
     />
     <ContactForm />
+  <WhatsAppIcon />
     
     <Footer />
 
