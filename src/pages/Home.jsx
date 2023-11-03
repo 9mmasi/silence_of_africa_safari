@@ -19,8 +19,8 @@ const Home = () => {
         <Hero 
         cname="hero"
         heroImg={bg}
-        title="Lorem ipsum dolor sit."
-        text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt."
+        title="Welcome to Silence of Africa: Your Gateway to Serene Adventures."
+        text="With Silence of Africa safari, we invite you to embark on a breathtaking journey through the heart of the world's most diverse and awe-inspiring continent. With us, you'll experience the magic of Africa like never before."
         buttonText="plan your trip" 
         btnClass="showbtn"
         />
