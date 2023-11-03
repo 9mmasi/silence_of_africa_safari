@@ -26,7 +26,7 @@ const Home = () => {
         />
         <Magicalsafari />
         <Destinations />
-        <Trip />
+        
         <Faq />
         <WhatsAppIcon />
         
