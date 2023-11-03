@@ -3,6 +3,7 @@ import Hero from '../components/Hero'
 import bg from "../assets/abouthero.jpg"
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
+import { WhatsAppIcon } from '../components/WhatsAppIcon'
 
 
 
