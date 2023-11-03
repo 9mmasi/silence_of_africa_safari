@@ -6,6 +6,7 @@ import Footer from '../components/Footer'
 import { useGlobalContext } from '../../Context'
 import "./Hiking.css"
 import { Link } from 'react-router-dom'
+import { WhatsAppIcon } from '../components/WhatsAppIcon'
 
 const Hiking = () => {
   const{packages}=useGlobalContext()
@@ -54,6 +55,7 @@ const Hiking = () => {
         </div>
       </div>
     </section>
+      <WhatsAppIcon />
     <Footer />
     </main>
   )
