@@ -8,7 +8,7 @@ const Footer = () => {
         <article className="top">
             <div>
                 <h1>Silence Of Africa Safari</h1>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam aliquid quod labore expedita iste omnis.</p>
+                <p>Discover the Untamed Beauty of Africa.</p>
             </div>
             <div>
                 <a href=""><i className="fa-brands fa-facebook"></i></a>
