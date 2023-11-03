@@ -318,7 +318,7 @@ export const data =[
             {
                 title:"Day 1 - Arusha to Lake Manyara",
                 distance:"114km",
-                time:"2hours drive"
+                time:"2hours drive",
                 desc:"Pick up at 8:30 AM from your hotel in Arusha and depart for Lake Manyara National Park with a picnic lunch for a full day game drive. As you enter the national park, lush forests of Acacia and Mahogany trees begin to set the mood for what is waiting ahead. The game drive will go on till evening with a small break for picnic lunch. During the game drive watch out for buffaloes, giraffes, impalas, baboons and the blue monkeys. Another spectacle of Lake Manyara National park is the tree climbing lions, however spotting them is a game of luck. In the right season, you can see the shoreline turning pink with millions of flamingos flocking there. Post the game drive, you will head back to your camp/lodge where a delicious dinner awaits you.",
                 
             },
