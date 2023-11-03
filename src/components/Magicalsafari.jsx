@@ -12,7 +12,7 @@ const Magicalsafari = () => {
             </div>
             <div className='magic-content'>
             <h1>Take Only Memories Leave Only Footprint</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum voluptatum dicta incidunt voluptatibus accusamus magnam expedita nam nobis sit facilis.</p>
+            <p>"Take Only Memories, Leave Only Footprints" is a travel philosophy that encourages leaving a minimal ecological footprint while making lasting memories. It means embracing your travel experiences, respecting nature, and local communities. By following this principle, you can explore the world sustainably and ensure that future generations can enjoy the beauty of our planet.</p>
             </div>
       
         
