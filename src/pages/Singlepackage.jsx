@@ -8,6 +8,7 @@ import './single.css';
 import BookingForm from '../components/Booking'
 import IncludedList from '../components/Included'
 import ExcludedList from '../components/Exclude'
+import { WhatsAppIcon } from '../components/WhatsAppIcon'
 
 
 
@@ -49,7 +50,9 @@ const Singlepackage = () => {
           </div>
          
         </div>
+        <WhatsAppIcon />
         <Footer />
+        
       </section>
     );
   } else {
