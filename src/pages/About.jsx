@@ -16,6 +16,7 @@ const About = () => {
     title="About Us"
      
     />
+      <WhatsAppIcon />
     
     <Footer />
 
