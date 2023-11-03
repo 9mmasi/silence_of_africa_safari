@@ -4,6 +4,7 @@ import bg from "../assets/beachhero.jpg"
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import { useGlobalContext } from '../../Context'
+import { WhatsAppIcon } from '../components/WhatsAppIcon'
 import { Link } from 'react-router-dom'
 
 
@@ -49,6 +50,7 @@ const Beach = () => {
         </div>
       </div>
     </section>
+      <WhatsAppIcon />
     <Footer />
     </main>
   )
