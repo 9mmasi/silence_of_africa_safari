@@ -13,7 +13,7 @@ const Destinations = () => {
   return (
     <section className='Destinations'>
         <h1>Popular Destinations</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, saepe?</p>
+        <p>Our selection of popular destinations promises unforgettable adventures and experiences.</p>
 
         <DestinationData 
         cname="destination"
