@@ -5,6 +5,7 @@ import bg from "../assets/mikumi.jpg"
 import Footer from '../components/Footer'
 import { useGlobalContext } from '../../Context'
 import { Link } from 'react-router-dom'
+import { WhatsAppIcon } from '../components/WhatsAppIcon'
 
 
 const Safaris = () => {
@@ -54,6 +55,7 @@ const Safaris = () => {
         </div>
       </div>
     </section>
+      <WhatsAppIcon />
     <Footer />
         
     </main>
