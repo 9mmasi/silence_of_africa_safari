@@ -260,12 +260,13 @@ export const data =[
             {
                 title:"Day 1 – Arusha – Lake Manyara",
                 desc:"This morning, after your breakfast at your hotel by 7.30 am, and you will be met by your safari guide, for a short briefing, and later you will depart for Lake Manyara National Park. Spend the afternoon on a game drive of this park, described as one of the hidden gems of Tanzania. This park is famous for its tree-climbing lions and large herds of elephant, which are not shy to come straight up to the vehicle. There are numerous bird species, making the park one of the iconic African birding destination, famous for the flamingoes.After the game drive, you will return to the lodge for dinner and overnight.Overnight at Lake Manyara accommodation. Meal Plan: Lunch & dinner.",
-                time:"3hours",
+                time:"2hours drive",
+                distance:"114km"
             },
             {
                 title:"Day 2 – Lake Manyara National Park – Ngorongoro Crater – Arusha",
                 desc:"On the last day of your safari, you will have an early start. Finishing up with a quick breakfast you will make an early descent at around 6:30 AM into the crater floor. The Ngorongoro Crater is the world’s largest inactive, intact and unfilled volcanic caldera. It has a massive floor of about 260 sq kms with a depth of over 2000 feet. The 5-hour game drive on the crater floor will show you a lot of animal action. Keeping the camera ready is definitely recommended. The African elephant, buffalo, Black rhino, Hippos, Hyenas, Cheetahs and Lions are found in plenty. Post the picnic lunch at the beautiful Hippo pool, you will begin a steep ascend to the top exit of the crater. This is the last leg of your safari, with a 4hr drive left to Arusha. You will be dropped off to your preferred location in Arusha by 6:00 PM in the evening. With an incredible experience and loads of memories to cherish, this is the time you bid goodbye to your team.",
-                time:"3hours",
+                time:"6hours drive",
             },
         ],
         img:[manyara1,manyara2,manyara3,manyara4],
@@ -281,17 +282,23 @@ export const data =[
         price:2200,
         days:[
             {
-                title:"Day 1: Arrival at Tanzania",
+                title:"Day 1: Arrival at Kilimanjaro Airport - Arusha ",
+                distance:"55km",
+                time:"1hours drive ",
                 desc:"Today you will be welcomed by the member of our team and transported to hotel in Arusha,  where you can refresh and later be briefed by your guide about the activities in following days. Dinner and overnight at the selected hotel.",
                 
             },
             {
-                title:"Day 2: Lake Manyara national park",
+                title:"Day 2: Arusha-Lake Manyara national park",
+                distance:"114km",
+                time:"2hours drive",
                 desc:"Early in the morning, after breakfast at the hotel, we will take you to Lake Manyara National Park. This park is nestled between the Great Rift Valley escarpment to the East, and the lake Manyara to the West. It is a home for baboons, elephants, zebras, hippos, flamingos, giraffes, other varieties of primates, many types of antelope and the elusive tree climbing lions which makes it great fun and very exciting safari. Lake Manyara is also known for more than 400 bird species, lush vegetation and a large alkaline lake, which is the seasonal breeding ground for large colonies of flamingos. Due to its diversity of habitats, this park is a home to variety of wildlife that includes different types of mammals, reptiles and birds. One of the park attractions is a 400m canopy walk that starts with a short board-walk and gradually rises from ground level up through the Manyara forest. The picnic lunch you will have in between game drives, while dinner and overnight at the selected accommodation.",
                 
             },
             {
                 title:"Day 3 – Tarangire National Park – Arusha",
+                distance:"120km",
+                time:"2hours drive",
                 desc:"Today, after breakfast at the hotel, you will check out from your lodge, after we will take you to Tarangire National Park. This park is considered as one of the best places in Africa to view large herds of elephants up close. Not only because there are thousands of animals roaming around the park, but also because they are not disturbed by the presence of vehicles and people. Another big attraction of the park, besides the huge baobabs, are huge tree climbing pythons in acacia woodlands. Tarangire is also home to buffaloes, zebras and variety of birds, but also quite scarce orix . Leopards are rarely seen in daylight, since they tend to sleep in the trees throughout the day. From the open roof of the safari vehicle you will be able to absorb the landscape of savannah, decorated by the spectacularly massive baobab trees, but also swamplands and wooded areas. The picnic lunch you will have in between game drives, while dinner and overnight at the selected accommodation. Later in the afternoon we will transport you to your Arusha hotel.End of the service.",
                 
             },
@@ -310,28 +317,33 @@ export const data =[
         days:[
             {
                 title:"Day 1 - Arusha to Lake Manyara",
+                distance:"114km",
+                time:"2hours drive"
                 desc:"Pick up at 8:30 AM from your hotel in Arusha and depart for Lake Manyara National Park with a picnic lunch for a full day game drive. As you enter the national park, lush forests of Acacia and Mahogany trees begin to set the mood for what is waiting ahead. The game drive will go on till evening with a small break for picnic lunch. During the game drive watch out for buffaloes, giraffes, impalas, baboons and the blue monkeys. Another spectacle of Lake Manyara National park is the tree climbing lions, however spotting them is a game of luck. In the right season, you can see the shoreline turning pink with millions of flamingos flocking there. Post the game drive, you will head back to your camp/lodge where a delicious dinner awaits you.",
                 
             },
             {
                 title:"Day 2 – Lake Manyara – Serengeti Plains",
                 desc:"After breakfast we head towards the Serengeti National Park, via the beautiful high lying farmland of Karatu and the Ngorongoro Conservation Area. Leaving the highlands behind, we descend into the heart of wild Africa - the Serengeti National Park - with its endless plains, rolling into the distance as far as the eye can see. We head to the central park area, known as the Seronera area, one of the richest wildlife habitats in the park, featuring the Seronera River, which provides a valuable water source to this area and therefore attracts wildlife well representative of most of the Serengeti's species. We arrive in time for lunch and enjoy an afternoon game drive in the Serengeti National Park.",
-                Nongameviewingtravel:"3hours",
+                time:"5hours drive",
+                distance:"268km"
             },
             {
                 title:"Day 3 – Serengeti Plains",
                 desc:"You can either have a relaxed breakfast and depart for full day game drives around 9:00 AM with packed lunch and return back to lodge late afternoon around 6:00 PM. Or you can depart at 6:00 AM on an early morning game drive. Later return to accommodation for breakfast and relax for a bit and depart on an afternoon game drive with packed lunch. You will explore the central portion of the Serengeti National Park today. The legendary Serengeti National Park is the most renowned safari destination for its incredible population of lions and leopards. The central portion of the Serengeti - known as Seronera area is one of the richest wildlife habitats in the park. It features the Seronera River, which provides a valuable water source to this area and therefore attracts wildlife well representative of most of the Serengeti’s species. During the off season of the migration, one must really look out for the many lion pride that thrive in this region. The interactions and survival of these lion pride provide an excellent game viewing experience all year round. Along with a picnic lunch during the full day game drive, the day will come to a close by around 5PM. The long day comes to an end with a heavy dinner and a good night’s rest in your accommodation.",
-                time:"3hours",
+                
             },
             {
                 title:"Day 4 – Serengeti Plains – Ngorongoro crater",
                 desc:"After breakfast, you will have a morning game drive in Serengeti National Park. Later depart for Ngorongoro Conservation Area with picnic lunch. Ngorongoro Crater is the largest collapsed volcanic crater in the world and fourteen kilometers of isolated natural beauty. Ngorongoro Crater is surrounded by a ring of extinct volcanoes and the floor, dotted with watering holes, shelters some 30,000 animals. The eventful day comes to an end with a heavy dinner and a good night’s rest in your accommodation.",
-                time:"3hours",
+                time:"4hours drive",
+                distance:"213km"
             },
             {
                 title:"Day 5 – Ngorongoro crater – Arusha",
                 desc:"On the last day of your safari, you will have an early start. Finishing up with a quick breakfast you will make an early descent at around 6:30 AM into the crater floor. The Ngorongoro Crater is the world’s largest inactive, intact and unfilled volcanic caldera. It has a massive floor of about 260 sq kms with a depth of over 2000 feet. The 5-hour game drive on the crater floor will show you a lot of animal action. Keeping the camera ready is definitely recommended. The African elephant, buffalo, Black rhino, Hippos, Hyenas, Cheetahs and Lions are found in plenty. Post the picnic lunch at the beautiful Hippo pool, you will begin a steep ascend to the top exit of the crater. This is the last leg of your safari, with a 4hr drive left to Arusha. You will be dropped off to your preferred location in Arusha by 6:00 PM in the evening. With an incredible experience and loads of memories to cherish, this is the time you bid goodbye to your team.",
-                time:"3hours",
+                time:"3hours drive",
+                distance:"195km"
             },
         ],
         img:[ngorongoro1,ngorongoro2,ngorongoro3,ngorongoro4],
