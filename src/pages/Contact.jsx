@@ -17,6 +17,7 @@ const Contact = () => {
         cname="hero-mid"
         heroImg={bg}
         title="Contact"
+        text="Ready to start your African adventure? Contact us today to begin planning your personalized safari experience with Silence of Africa Safari."
     />
     <ContactForm />
   <WhatsAppIcon />

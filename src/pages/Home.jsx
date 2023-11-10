@@ -1,13 +1,14 @@
 import React from 'react'
 import Hero from '../components/Hero'
 import Navbar from '../components/Navbar'
-import bg from "../assets/buff.jpg"
+import bg from "../assets/families.jpg"
 import Footer from '../components/Footer'
 import Destinations from '../components/Destinations'
 import Trip from '../components/Trip'
 import Faq from '../components/Faq'
 import Magicalsafari from '../components/Magicalsafari'
 import { WhatsAppIcon } from '../components/WhatsAppIcon'
+import FourCards from '../components/FourCards'
 
 
 
@@ -28,6 +29,7 @@ const Home = () => {
         <Destinations />
         
         <Faq />
+        <FourCards />
         <WhatsAppIcon />
         
         <Footer />

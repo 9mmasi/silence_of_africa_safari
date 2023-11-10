@@ -15,6 +15,7 @@ const About = () => {
     cname="hero-mid"
     heroImg={bg}
     title="About Us"
+    text=""
      
     />
       <WhatsAppIcon />
