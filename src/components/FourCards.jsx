@@ -13,9 +13,9 @@ const FourCards = () => {
         </div>
       
       <div className="card-container">
-        <Card imageUrl={bg1} heading="Honeymoon" paragraph="" />
-        <Card imageUrl={bg2} heading="Families" paragraph=""  />
-        <Card imageUrl={bg3} heading="Couples" paragraph=""  />
+        <Card className="card" imageUrl={bg1} heading="Honeymoon" paragraph="" />
+        <Card className="card" imageUrl={bg2} heading="Families" paragraph=""  />
+        <Card className="card" imageUrl={bg3} heading="Couples" paragraph=""  />
       </div>
       </section>
     );

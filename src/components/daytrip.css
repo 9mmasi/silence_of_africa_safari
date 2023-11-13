@@ -14,10 +14,19 @@
   
   .image-column {
     flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
     max-width: 50%; /* Set max-width to 50% of container width */
   }
   
   .text-column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     flex: 1;
     max-width: 50%; /* Set max-width to 50% of container width */
     padding: 20px;

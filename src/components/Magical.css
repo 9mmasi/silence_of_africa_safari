@@ -27,6 +27,9 @@
     margin-top: 10rem;
     text-align: center;
 }
+.magic-content p{
+    color: #fff;
+}
 .empty{
     height: fit-content;
     width: auto;
@@ -68,8 +71,10 @@
         text-align: justify;
         white-space: pre-wrap;
         margin-left: 1rem;
+        margin-bottom: 3rem;
         overflow:hidden;
-        width: 90%;
+        width:95%;
+        color: #fff;
     }
     }
 

@@ -8,7 +8,7 @@ const Footer = () => {
         <article className="top">
             <div>
                 <h1>Silence Of Africa Safari</h1>
-                <p>Discover the Untamed Beauty of Africa.</p>
+                <h4>Discover the Untamed Beauty of Africa.</h4>
             </div>
             <div>
                 <a href=""><i className="fa-brands fa-facebook"></i></a>
@@ -20,10 +20,10 @@ const Footer = () => {
         <article className="bottom">
             <div>
                 <h4>Address Tanzania</h4>
-                <p>Plot. 470 Philips</p>
-                <p>Arusha, Tanzania</p>
-                <p>+25588410445</p>
-                <p>+255757348529</p>
+                <h4>Plot. 470 Philips</h4>
+                <h4>Arusha, Tanzania</h4>
+                <h4>+25588410445</h4>
+                <h4>+255757348529</h4>
             </div>
             <div>
                 <p><span><Link to="/terms" className="footer-link" href="">Terms and Condition</Link></span></p>
