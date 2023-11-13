@@ -1,10 +1,101 @@
-/* Styling for the card container */
-.card-container {
-    display: flex;
-    justify-content: space-between; /* Adjust as needed */
-     /* Allow cards to wrap to the next line on smaller screens */
-    max-width: 1000px; /* Adjust the maximum width as needed */
-    margin: 0 auto;
+/* YourComponent.css */
+
+.your-component {
+  position: relative;
+  overflow: hidden;
+  flex: 0.3;
+  margin-bottom: 2rem;
+ 
+
+}
+
+.component-image {
+  width:40rem;
+  object-fit: contain;
+  height:30rem;
+  transition: transform 0.3s ease-out;
+}
+
+.text-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  
+  transition: opacity 0.3s ease-in-out;
+}
+.text-container h2{
+  opacity: 1;
+  font-size: 3rem;
+}
+
+.your-component:hover p{
+  opacity: 1;
+}
+
+.your-component:hover .component-image {
+  transform: scale(1.1);
+}
+
+.your-component h2 {
+  font-size: 1.5rem;
+}
+
+.your-component p {
+  font-size: 1rem;
+}
+
+.your-component button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.your-component button:hover {
+  background-color: #2980b9;
+}
+
+/* Initially hide the button */
+.hidden-button {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.your-component:hover .hidden-button {
+  opacity: 1;
+}
+.card-container{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.experience{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+  
+}
+.experience h2,p{
+  text-align: center;
+  color: black;
+}
+.experiences{
+  padding: 4rem 6rem;
+}
+
+
+
+@media screen and (max-width:850px){
+  .card-container{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
   .experience{
     display: flex;
@@ -12,60 +103,29 @@
     align-items: center;
     flex-direction: column;
   }
-  .experience>p{
-    font-size: 1rem;
-    text-align: center;
-  }
-  /* Styling for each card (same as previous example) */
-  .card {
-    position: relative;
-    flex: 0.3rem;
-    width: 100%;
-    height: 100vh;
-    max-width: 700px;
-    margin: 20px;
-    border: 1px solid #ccc;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    overflow: hidden;
-  }
-  
-  .card-image {
-    width: 100%;
-    height: 100%;
-    object-fit:cover ;
-    
-    
-  }
- 
-   .card-text {
-    
+  .text-container {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    background: rgba(12, 8, 8, 0.7);
-    color: #fff;
-    padding: 10px;
-    font-size: 1.5rem;
-    border-radius: 8px;
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
   }
-  @media screen and(max-width:850px){
-    .card-container{
-      display: flex;
-      flex-direction: column-reverse;
-    }
-    .card{
-      position: relative;
-      
-      width: 100%;
-      height: 100vh;
-      max-width: 700px;
-      margin: 20px;
-      border: 1px solid #ccc;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      border-radius: 8px;
-      overflow: hidden;
-    }
+  .experiences{
+    padding: 2rem 4rem;
   }
+  .component-image{
+    width: 410px;
+    margin-bottom:2rem;
+  }
+  
+  .your-component {
+    position: relative;
+    overflow: hidden;
+    flex: 0.3;
+    margin-top: 2rem;
+   
+  
+  }
+}

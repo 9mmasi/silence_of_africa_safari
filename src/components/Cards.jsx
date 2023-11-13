@@ -1,13 +1,16 @@
 import React from 'react';
 import "./fourcards.css"
 
-const Card = ({ imageSrc, text,desc }) => {
+const Card = ({ imageUrl, heading, paragraph}) => {
   return (
-    <div className="card">
-      <img className="card-image" src={imageSrc} alt="Image" />
-      <h2 className="card-text">{text}</h2>
-      <p className="card-text">{desc}</p>
+    <div className="your-component">
+    <img src={imageUrl} alt="Your Image" className="component-image" />
+    <div className="text-container">
+      <h2>{heading}</h2>
+      <p>{paragraph}</p>
+
     </div>
+  </div>
   );
 }
 
