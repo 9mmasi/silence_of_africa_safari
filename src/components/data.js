@@ -409,7 +409,7 @@ export const data =[
         id:11,
         duration:"4 days ",
 
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus.",
+        text:" The  4 Days Zanzibar Kendwa Beach Holidays and Stone Town Tour package offers a delightful and immersive experience, combining the serene beauty of Kendwa Beach with the cultural richness of Stone Town in Zanzibar.",
         title:"4 Days Zanzibar Kendwa Beach Holidays and Stone Town Tour",
         price:2200,
         days:[
@@ -443,7 +443,7 @@ export const data =[
         id:12,
         duration:"5 days ",
 
-        text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit lorem, tempus id arcu non, varius interdum risus. Donec tempor vel nibh et gravida. Ut accumsan ut velit eu vehicula. In blandit leo non sapien varius sagittis. Praesent eleifend mattis massa, venenatis pulvinar libero. Phasellus euismod tortor non imperdiet maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam aliquam nisl et tortor tincidunt tempor. Sed ac auctor risus.",
+        text:"Embark on a captivating adventure with our '5 Days Explore Zanzibar' package. Immerse yourself in the rich cultural tapestry of this exotic island, from the vibrant markets of Stone Town to the pristine beaches of Nungwi. Indulge in the tantalizing flavors of Zanzibari cuisine, and discover the secrets of the Spice Islands on a guided tour. This five-day itinerary promises an unforgettable blend of relaxation, exploration, and cultural immersion in the heart of Zanzibar.",
         title:"5 Days Explore Zanzibar ",
         price:2200,
         days:[
