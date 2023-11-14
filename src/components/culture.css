@@ -1,5 +1,5 @@
 
-.dayTrips{
+.culture{
     padding: 4rem 6rem;
   } 
 .text-column h2{
@@ -40,7 +40,7 @@
     background: var(--secondary-color);
     margin-top: 2rem;
   }
-  .day-trip{
+  .culture-tour{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -48,7 +48,7 @@
     margin-bottom: 2rem;
     color: black !important;
   }
-  .day-trip>h2{
+  .culture-tour>h2{
     color: black;
   }
   .button{
@@ -61,7 +61,7 @@
   }
   
   @media screen and (max-width: 850px) {
-    .dayTrips{
+    .culture{
         padding: 2rem 4rem;
     }
     .container {
@@ -78,7 +78,7 @@
         height: 300px;
         
     }
-    .day-trip>p{
+    .culture-tour>p{
         width:90%;
         text-align: center;
     }

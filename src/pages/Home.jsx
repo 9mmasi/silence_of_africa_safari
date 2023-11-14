@@ -10,6 +10,7 @@ import Magicalsafari from '../components/Magicalsafari'
 import { WhatsAppIcon } from '../components/WhatsAppIcon'
 import FourCards from '../components/FourCards'
 import DayTrips from '../components/DayTrips'
+import Culturetour from '../components/Culturetour'
 
 
 
@@ -32,6 +33,7 @@ const Home = () => {
         <Faq />
         <FourCards />
         <DayTrips />
+        <Culturetour />
         
         <WhatsAppIcon />
         

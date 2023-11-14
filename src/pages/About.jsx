@@ -7,6 +7,7 @@ import { WhatsAppIcon } from '../components/WhatsAppIcon'
 
 
 
+
 const About = () => {
   return (
     <main>
@@ -18,9 +19,12 @@ const About = () => {
     text=""
      
     />
+   
       <WhatsAppIcon />
+      
     
     <Footer />
+  
 
     </main>
   )

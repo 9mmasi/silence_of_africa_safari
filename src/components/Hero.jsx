@@ -10,7 +10,7 @@ const Hero = (props) => {
             <h1>{props.title}</h1>
             <p>{props.text}</p>
             <div className="show">
-          <a href="/" className={props.btnClass}>{props.buttonText}</a>   
+          <a href="/contact" className={props.btnClass}>{props.buttonText}</a>   
             </div>
             
         </div>

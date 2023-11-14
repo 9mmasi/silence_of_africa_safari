@@ -1,7 +1,9 @@
 import React from 'react';
 import './daytrip.css'; // Make sure to import your CSS file
-import bg8 from "../assets/chemka.jpeg"
-import bg9 from "../assets/ArushaNP.jpeg"
+import bg8 from "../assets/chemka.jpg"
+import bg9 from "../assets/ArushaNP.jpg"
+import bg10 from "../assets/safari-tarangire.jpg"
+import bg11 from "../assets/manyaraNP.jpg"
 const DayTrips = () => {
   return (
     <section className='dayTrips'>
@@ -19,7 +21,7 @@ const DayTrips = () => {
         <p>
         Kikuletwa Hot Springs, also known as Chemka Hot Spring, offers a serene retreat and stands out as one of the top relaxation spots in both Arusha and Moshi. Renowned for its rejuvenating ambiance, the hot spring provides an ideal escape for those seeking tranquility and is considered a must-visit Day Trip attraction in the region.
         </p>
-        <button>Plan your day trip</button>
+        <a className='button'  href="/contact" >Plan your day trip</a>
       </div>
     </div>
     <div className="container">
@@ -32,7 +34,33 @@ const DayTrips = () => {
       </div>
       <div className="image-column">
         <img src={bg9} alt="Your Image Alt Text" />
-        <button>Plan your day trip</button>
+        <a className='button'  href="/contact" >Plan your day trip</a>
+      </div>
+      
+    </div>
+    <div className="container">
+      <div className="image-column">
+        <img src={bg10} alt="Your Image Alt Text" />
+      </div>
+      <div className="text-column">
+        <h2>A day Trip To Tarangire</h2>
+        <p>
+        Explore the untamed beauty of Tarangire National Park with our exclusive day trip package. Immerse yourself in the diverse landscapes and witness the iconic African wildlife, including majestic elephants and a variety of bird species. Our expert guides ensure an enriching experience as you traverse the park's vast savannas and lush riverine ecosystems. Enjoy a day filled with thrilling game drives and unforgettable moments in the heart of Tanzania's wilderness.
+        </p>
+        <a className='button'  href="/contact" >Plan your day trip</a>
+      </div>
+    </div>
+    <div className="container">
+    <div className="text-column">
+        <h2>Manyara National Park</h2>
+        <p>
+        Embark on an enchanting day trip to Lake Manyara National Park with our curated package. Witness the park's diverse ecosystems, from the scenic lake to the dense woodlands, home to flamingos, elephants, and tree-climbing lions. Our experienced guides ensure an immersive safari experience, combining breathtaking landscapes with unparalleled wildlife encounters. Indulge in a day of adventure and discovery within the unique wonders of Lake Manyara.
+        </p>
+       
+      </div>
+      <div className="image-column">
+        <img src={bg11} alt="Your Image Alt Text" />
+        <a className='button'  href="/contact" >Plan your day trip</a>
       </div>
       
     </div>
