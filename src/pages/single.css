@@ -36,6 +36,29 @@
     text-align: start;
     margin: 0;
   }
+  .btnbook-container{
+    padding: 1rem .5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .showbtn{
+    
+    background-color: var(--primary-color);
+    padding: .7rem .5rem;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: black;
+    margin: .7rem 0;
+    
+    
+    
+    
+    
+}
   
   @media (max-width: 768px) {
     .responsive-list{

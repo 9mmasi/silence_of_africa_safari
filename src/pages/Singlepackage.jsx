@@ -44,8 +44,13 @@ const Singlepackage = () => {
             <IncludedList />
             <ExcludedList />
 
+            <div className='btnbook-container'>
+            <a href='/contact' className='showbtn'>book this tour</a>
+
+            </div>
+
             
-            <BookingForm/>
+            
             
           </div>
          

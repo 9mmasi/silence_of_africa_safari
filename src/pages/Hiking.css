@@ -8,3 +8,12 @@
 .hiking-section{
     margin-bottom: 3rem;
 }
+@media  screen and (max-width:850px) {
+    .hiking-head-title{
+        margin-top: auto;
+    }
+    .hiking-head-title>h1{
+        text-align: center;
+    }
+    
+}

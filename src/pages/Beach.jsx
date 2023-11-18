@@ -35,11 +35,17 @@ const Beach = () => {
       <h3>{item.title}</h3>
       <p>{item.text}</p>
 
-      <Link to={`/packages/${item.id}`} className='cardTail'>
-        <div><i className="fa-solid fa-money-bill"></i> ${item.price}</div>
-        <div><i className="fa-regular fa-calendar-days"></i> {item.duration}</div>
+      <div className='price-duration'>
+              <div className='price'><i className="fa-solid fa-money-bill"></i> ${item.price}</div>
+                <div className='period'><i className="fa-regular fa-calendar-days"></i> {item.duration}</div>
+              </div>
         
-      </Link>
+              <Link to={`/packages/${item.id}`} className='cardTail'>
+              
+                See more
+                
+                </Link>
+                
     </article>
             )
 
