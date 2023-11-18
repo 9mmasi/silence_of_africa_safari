@@ -14,7 +14,7 @@ export const menuItems=[
 
     },
     {
-        title:"About",
+        title:"About Us",
         icon:"fa-solid fa-circle-info",
         cname:"navLink",
         url:"/about"
