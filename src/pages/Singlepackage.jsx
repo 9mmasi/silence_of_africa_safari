@@ -1,5 +1,5 @@
 import React from 'react';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import { useGlobalContext } from '../../Context';
 import Hero from '../components/Hero';
 import Footer from '../components/Footer';
@@ -45,7 +45,10 @@ const Singlepackage = () => {
             <ExcludedList />
 
             <div className='btnbook-container'>
-            <a href='/contact' className='showbtn'>book this tour</a>
+              <Link to={'/contact'}>
+              <a className='showbtn'>book this tour</a>
+              </Link>
+            
 
             </div>
 

@@ -17,8 +17,9 @@
 }
 .navLogo{
     cursor: pointer;
-    font-size: 2rem;
-    color: #222;
+    height:5rem;
+    width: 3rem;
+    object-fit: contain;
 }
 .navMenu{
     display: flex;
@@ -76,6 +77,9 @@
         z-index: -1;
         opacity: 1;
 
+    }
+    .logo{
+        object-fit: contain;
     }
    
     .navLink{

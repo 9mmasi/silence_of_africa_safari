@@ -255,7 +255,7 @@ export const data =[
         duration:"2 days ",
 
         text:"In this tour we will cover the 2 most popular destinations in Tanzania - Lake Manyara National Park (1 night) and Ngorongoro Crater. Tour starts and ends at Arusha. With our experienced driver guides, it will be a trip of a lifetime!",
-        price:2200,
+        price:'1700 per person',
         days:[
             {
                 title:"Day 1 – Arusha – Lake Manyara",
@@ -279,7 +279,7 @@ export const data =[
 
         text:"In this tour we will cover the 2 most popular destinations in Tanzania - Lake Manyara National Park (1 night) and Tarangire National Park. Tour starts and ends at Arusha. With our experienced driver guides, it will be a trip of a lifetime!.",
         title:"3 Days Lake Manyara & Tarangire",
-        price:2200,
+        price:'2950 per person',
         days:[
             {
                 title:"Day 1: Arrival at Kilimanjaro Airport - Arusha ",
@@ -313,7 +313,7 @@ export const data =[
 
         text:"In this tour we will cover the 3 most popular destinations in Tanzania - Lake Manyara National Park (1 night), Central Serengeti (2 nights) and Ngorongoro Crater (1 night). Tour starts and ends at Arusha. With our experienced driver guides, it will be a trip of a lifetime!",
         title:"5 Days Lake Manyara, Serengeti & Ngorongoro",
-        price:2200,
+        price:'4680 per person',
         days:[
             {
                 title:"Day 1 - Arusha to Lake Manyara",
@@ -347,7 +347,7 @@ export const data =[
             },
         ],
         img:[ngorongoro1,ngorongoro2,ngorongoro3,ngorongoro4],
-        price:3000,
+        
         category:"safari"
     },
     {
@@ -356,7 +356,7 @@ export const data =[
 
         text:"In this tour we will cover the 4 most popular destinations in Tanzania - Lake Manyara National Park , Central Serengeti,Ngorongoro Crater and Tarangire National Park . Tour starts and ends at Arusha. With our experienced driver guides, it will be a trip of a lifetime!.",
         title:"7 Days Lake Manyara, Serengeti, Ngorongoro & Tarangire",
-        price:2200,
+        price:'6330 per person',
         days:[
             {
                 title:"Day 1 – Kilimanjaro International Airport-Arusha City",
@@ -401,7 +401,7 @@ export const data =[
             },
         ],
         img:[serengeti1,serengeti2,serengeti3,serengeti4],
-        price:3000,
+        
         category:"safari"
     },
     
@@ -445,7 +445,7 @@ export const data =[
 
         text:"Embark on a captivating adventure with our '5 Days Explore Zanzibar' package. Immerse yourself in the rich cultural tapestry of this exotic island, from the vibrant markets of Stone Town to the pristine beaches of Nungwi. Indulge in the tantalizing flavors of Zanzibari cuisine, and discover the secrets of the Spice Islands on a guided tour. This five-day itinerary promises an unforgettable blend of relaxation, exploration, and cultural immersion in the heart of Zanzibar.",
         title:"5 Days Explore Zanzibar ",
-        price:2200,
+        price:'2200 per person',
         days:[
             {
                 title:"DAY 1 Arrive Zanzibar airport/ harbor transfer to Stone Town Hotel for check-inn;",

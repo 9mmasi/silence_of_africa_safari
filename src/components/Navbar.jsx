@@ -2,6 +2,7 @@ import React,{useState} from 'react'
 import "./Navbar.css"
 import { Link } from 'react-router-dom'
 import { menuItems } from './menuItems'
+import logo from "../assets/logo.png"
 const Navbar = () => {
   const[clicked,setClicked]=useState(true)
   const handleClick=()=>{
@@ -9,7 +10,7 @@ const Navbar = () => {
   }
   return (
     <nav className='navItems'> 
-    <h1 className='navLogo'><i className="fa-solid fa-earth-africa"></i></h1>
+    <img className='navLogo' src={logo}/>
      <div className="navIcon">
       <i onClick={handleClick} className={clicked?'fas fa-bars':'fas fa-times'}></i>
       

@@ -4,6 +4,7 @@ import bg from "../assets/abouthero.jpg"
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import { WhatsAppIcon } from '../components/WhatsAppIcon'
+import AboutComp from '../components/AboutComp'
 
 
 
@@ -19,6 +20,7 @@ const About = () => {
     text=""
      
     />
+    <AboutComp/>
    
       <WhatsAppIcon />
       

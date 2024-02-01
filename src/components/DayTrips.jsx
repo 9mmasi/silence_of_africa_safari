@@ -21,7 +21,7 @@ const DayTrips = () => {
         <p>
         Kikuletwa Hot Springs, also known as Chemka Hot Spring, offers a serene retreat and stands out as one of the top relaxation spots in both Arusha and Moshi. Renowned for its rejuvenating ambiance, the hot spring provides an ideal escape for those seeking tranquility and is considered a must-visit Day Trip attraction in the region.
         </p>
-        <a className='button'  href="/contact" >Plan your day trip</a>
+        <a className='button'  href="/contact" >$130 per person</a>
       </div>
     </div>
     <div className="container">
@@ -30,11 +30,12 @@ const DayTrips = () => {
         <p>
         Embark on a unique Tanzanian Safari starting at Arusha National Park, nestled by Mount Meru. Known for lush landscapes, serene lakes, and black and white colobus monkeys, it offers an intimate walking safari. Get up-close with wildlife, a rare experience found in select national parks.
         </p>
+        <a className='button'  href="/contact" >$600 per person</a>
        
       </div>
       <div className="image-column">
         <img src={bg9} alt="Your Image Alt Text" />
-        <a className='button'  href="/contact" >Plan your day trip</a>
+        
       </div>
       
     </div>
@@ -47,7 +48,7 @@ const DayTrips = () => {
         <p>
         Explore the untamed beauty of Tarangire National Park with our exclusive day trip package. Immerse yourself in the diverse landscapes and witness the iconic African wildlife, including majestic elephants and a variety of bird species. Our expert guides ensure an enriching experience as you traverse the park's vast savannas and lush riverine ecosystems. Enjoy a day filled with thrilling game drives and unforgettable moments in the heart of Tanzania's wilderness.
         </p>
-        <a className='button'  href="/contact" >Plan your day trip</a>
+        <a className='button'  href="/contact" >$650 per person</a>
       </div>
     </div>
     <div className="container">
@@ -56,11 +57,12 @@ const DayTrips = () => {
         <p>
         Embark on an enchanting day trip to Lake Manyara National Park with our curated package. Witness the park's diverse ecosystems, from the scenic lake to the dense woodlands, home to flamingos, elephants, and tree-climbing lions. Our experienced guides ensure an immersive safari experience, combining breathtaking landscapes with unparalleled wildlife encounters. Indulge in a day of adventure and discovery within the unique wonders of Lake Manyara.
         </p>
+        <a className='button'  href="/contact" >$650 per person</a>
        
       </div>
       <div className="image-column">
         <img src={bg11} alt="Your Image Alt Text" />
-        <a className='button'  href="/contact" >Plan your day trip</a>
+        
       </div>
       
     </div>

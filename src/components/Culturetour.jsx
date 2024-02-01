@@ -19,7 +19,7 @@ const Culturetour = () => {
         <p>
         Embark on a captivating cultural immersion in Tanzania, where ancient traditions and vibrant customs come to life. Engage with local communities, savoring the rich tapestry of Tanzanian heritage through traditional dances, authentic cuisine, and storytelling. From the rhythmic beats of Swahili music to the warm hospitality of the Maasai people, our cultural experience invites you to embrace the diversity and depth of Tanzania's cultural mosaic. Immerse yourself in this unique journey, forging connections that transcend borders and leave a lasting appreciation for the beauty of Tanzanian traditions.
         </p>
-        <a className='button'  href="/contact" >Plan Culture Tours</a>
+        <a className='button'  href="/contact" >Meet Native</a>
       </div>
     </div>
     </section>
