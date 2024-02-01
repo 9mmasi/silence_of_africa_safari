@@ -4,6 +4,7 @@ import bg8 from "../assets/chemka.jpg"
 import bg9 from "../assets/ArushaNP.jpg"
 import bg10 from "../assets/safari-tarangire.jpg"
 import bg11 from "../assets/manyaraNP.jpg"
+import { Link } from 'react-router-dom';
 const DayTrips = () => {
   return (
     <section className='dayTrips'>
