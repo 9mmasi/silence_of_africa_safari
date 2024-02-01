@@ -5,6 +5,7 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import { WhatsAppIcon } from '../components/WhatsAppIcon'
 import AboutComp from '../components/AboutComp'
+import WhyUs from '../components/WhyUs'
 
 
 
@@ -21,6 +22,7 @@ const About = () => {
      
     />
     <AboutComp/>
+    <WhyUs/>
    
       <WhatsAppIcon />
       
