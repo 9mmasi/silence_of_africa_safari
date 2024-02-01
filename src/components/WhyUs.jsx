@@ -20,7 +20,7 @@ import { useState } from 'react'
   return (
     <section className='faq'>
       <h1>Why Travel With Silence Of Africa Safari</h1>
-      <p>Reaso To Travel With Us</p>
+      <p>Reason To Travel With Us</p>
 
       
       
