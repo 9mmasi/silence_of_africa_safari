@@ -10,7 +10,7 @@ const Navbar = () => {
   }
   return (
     <nav className='navItems'> 
-    <img className='navLogo' src={logo}/>
+   <Link to={'/'}><img className='navLogo' src={logo}/></Link> 
      <div className="navIcon">
       <i onClick={handleClick} className={clicked?'fas fa-bars':'fas fa-times'}></i>
       
