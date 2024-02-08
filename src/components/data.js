@@ -52,7 +52,7 @@ export const data =[
         duration:"6 days ",
         text:"The Marangu route, also known as the “Coca-Cola” route, is the oldest, most well established route on Kilimanjaro.This is the only route which offers sleeping huts in dormitory style accommodations in lieu of camping. There are 60 bunk beds each at Mandara and Kibo Huts, and 120 bunk beds at Horombo Hut. Guests are supplied with mattresses and pillows, but sleeping bags are still required. The huts have communal dining halls and basic washrooms, ranging from flushing toilets and running water at the lower huts to long drop toilets and buckets of water at Kibo Hut.",
         title:"6 days marangu package kilimanjaro climb",
-        price:2200,
+        price:'2570 per person',
         days:[
             {
                 title:"Day 1: Moshi Town to Marangu Gate to Mandara Hut",
@@ -99,7 +99,7 @@ export const data =[
         duration:"6 days ",
         text:"The Machame route, also known as the “Whiskey” route, is the most popular route on Kilimanjaro.Machame’s draw is in its scenic beauty. However, the trail is considered difficult, steep and challenging, particularly due to its shorter itinerary. Therefore this route is better suited for more adventurous folks or those with some high altitude, hiking or backpacking experience.",
         title:"7 days machame package kilimanjaro climb",
-        price:2200,
+        price:'3190 per person',
         days:[
             {
                 title:"Day 1: Machame Gate to Machame Camp",
@@ -153,7 +153,7 @@ export const data =[
         duration:"6 days ",
         text:"The Umbwe route has a well-deserved reputation of being the most challenging route on Mount Kilimanjaro. Due to the fast ascent to high altitude, this route does not provide the necessary stages for acclimatization.Although the number of people on this trail is very low, the chances of success are also low. Umbwe is considered to be very difficult, taxing route – one that should only be attempted by strong hikers who are confident in their ability to acclimatize quickly to altitude.",
         title:"6 days umbwe package kilimanjaro climb",
-        price:2200,
+        price:'2200 per person',
         days:[
             {
                 title:"Day  1: Umbwe Gate to Umbwe Cave Camp",
@@ -201,7 +201,7 @@ export const data =[
 
         text:"The Rongai route is the only route that approaches Kilimanjaro from the north, close to the Kenyan border. Though gaining popularity amongst climbers, this route still experiences low crowds.Rongai has a more gradual slope than the mountain’s other routes. It is the preferred route for those looking for an alternative to the popular Marangu route, for those who would like a more remote hike, and for those who are climbing during the rainy season",
         title:"7 days rongai package kilimanjaro climb",
-        price:2200,
+        price:'3260 per person',
         days:[
             {
                 title:"Day 1: Rongai Gate to Simba Camp",
