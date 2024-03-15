@@ -36,7 +36,7 @@ const ContactForm = () => {
           <a><i className=" fb fa-brands fa-square-instagram"></i></a>
         </div>
         <div className="link">
-          <a href='https://wa.me/+255688410445' target='blank'><i className=" wa fa-brands fa-whatsapp"></i></a>
+          <a href='https://wa.me/+255753711123' target='blank'><i className=" wa fa-brands fa-whatsapp"></i></a>
         </div>
         
       </div>
