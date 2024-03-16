@@ -6,20 +6,7 @@ export const menuItems=[
         url:"/"
 
     },
-    {
-        title:"Contact",
-        icon:"fa-regular fa-address-book",
-        cname:"navLink",
-        url:"/contact"
-
-    },
-    {
-        title:"About Us",
-        icon:"fa-solid fa-circle-info",
-        cname:"navLink",
-        url:"/about"
-
-    },
+   
     {
         title:"Beach Holiday",
         icon:"fa-solid fa-umbrella-beach",
@@ -41,6 +28,20 @@ export const menuItems=[
         icon:"fa-brands fa-safari",
         cname:"navLink",
         url:"/safaris"
+
+    },
+     {
+        title:"Contact",
+        icon:"fa-regular fa-address-book",
+        cname:"navLink",
+        url:"/contact"
+
+    },
+    {
+        title:"About Us",
+        icon:"fa-solid fa-circle-info",
+        cname:"navLink",
+        url:"/about"
 
     }
 
