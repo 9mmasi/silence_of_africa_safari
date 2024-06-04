@@ -30,7 +30,7 @@ const Footer = () => {
             </div>
             
         </article>
-        <p className='crafted'>crafted by <a href="">BrainCore</a></p>
+        <p className='crafted'>crafted by <a href='https://wa.me/+255688410445'>BrainCore</a></p>
     </footer>
   )
 }

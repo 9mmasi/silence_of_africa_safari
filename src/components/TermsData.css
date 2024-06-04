@@ -13,3 +13,26 @@
     text-align: justify;
     
 }
+@media screen and (max-width:850px){
+    .title-term{
+        margin-left: .5rem;
+        display: flex;
+        flex: 1;
+        text-align: start;
+        margin-top: .6rem;
+    }
+    .condition-header{
+        font-size: 1rem;
+
+        
+    }
+    .condition-body{
+        display: flex;
+    }
+    .body{
+        text-align: justify;
+        font-size: .9rem;
+        margin-left: .5rem;
+        width: fit-content;
+    }
+}

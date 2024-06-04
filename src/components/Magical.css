@@ -54,16 +54,17 @@
     .magic-content{
         width: 100%;
         display: flex;
-        justify-content: center;
+       
         align-items:flex-start;
         flex-direction: column;
         margin-top: auto;
+        
         
     }
     .magic-content h1{
         font-size: 1.3rem;
         font-weight: 900;
-        text-align: justify;
+        text-align:center;
         margin-left: 1rem;
     }
     .magic-content p{
@@ -73,7 +74,7 @@
         margin-left: 1rem;
         margin-bottom: 3rem;
         overflow:hidden;
-        width:95%;
+        width:90%;
         color: #fff;
     }
     }

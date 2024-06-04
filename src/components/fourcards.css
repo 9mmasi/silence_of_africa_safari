@@ -4,6 +4,7 @@
   position: relative;
   overflow: hidden;
   
+  
   margin: 0 0.5rem;
 
 }
@@ -92,6 +93,7 @@
 @media screen and (max-width:850px){
   .card-container{
     flex-direction: column;
+  
     
     
   }
@@ -120,12 +122,22 @@
   }
   .component-image{
     width: 390px;
+    flex: 1;
+    margin-top: 2em;
+
+    
     object-fit:cover;
     border-radius: 5px;
     height: 30rem;
     
     
   }
+  .your-component{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
   
   
 }
