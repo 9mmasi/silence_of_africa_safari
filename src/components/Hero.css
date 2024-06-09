@@ -77,7 +77,8 @@ img{
         padding-top: 80px !important;
     }
     .hero-text h1{
-        padding: 10px 20px;
+        padding: .5rem 1rem;
+        font-size:1.4rem
     }
     .hero-text .showbtn{
 padding: 0.2rem 1.7rem;
