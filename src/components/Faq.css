@@ -49,9 +49,11 @@
     padding: 2rem 4rem;
   }
   .wrapper{
-    display: flex;
-    flex: 1;
-    width:80vw
+    
+  
+    max-width: 80vw;
+    
+  
     
   }
   .item{
@@ -71,5 +73,13 @@
     align-items: center;
     flex-direction: column;
     
+  }
+  .faq h1{
+    font-size: 1.2rem;
+  }
+}
+@media screen and (max-width:450px){
+  .wrapper{
+    max-width: 70vw;
   }
 }
