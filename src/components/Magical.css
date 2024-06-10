@@ -17,7 +17,7 @@
     top: 55;
     right: 0;
     background-color: black;
-    opacity: 0.3;
+    opacity: 0.5;
     height: 100%;
     margin-left: 40rem;
     color: #fff;
@@ -45,7 +45,8 @@
         padding: 4rem 2rem;
         grid-template-columns:100%;
         width: 100vw;
-        max-height: 100vh;
+        max-height: 100vh
+        
     
     }
    .empty{
@@ -54,11 +55,12 @@
     .magic-content{
         width: 100%;
         display: flex;
-       
+       justify-content: center;
         align-items:flex-start;
         flex-direction: column;
         margin-top: auto;
-        
+        height: 100%
+        ;
         
     }
     .magic-content h1{
@@ -79,3 +81,20 @@
     }
     }
 
+    /*@media screen and(max-width:450px){
+        .magic-content{
+            width: 100%;
+            display: flex;
+           justify-content: center;
+            
+            flex-direction: column;
+            margin-top: auto;
+            height: 100%
+            ;
+            
+        }
+        .magic-content h1{
+            font-size: 1.2rem;
+        }
+    }
+*/
