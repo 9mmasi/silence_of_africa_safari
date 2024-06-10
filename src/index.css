@@ -6,6 +6,7 @@
   box-sizing: border-box;
   font-family: 'Lato','Caveat',sans-serif, cursive;
 }
+
 a{
   text-decoration: none;
 }
@@ -31,4 +32,11 @@ h3{
 }
 a{
   text-decoration: none;
+}
+p{
+  
+    
+    text-align: justify;
+    
+
 }
